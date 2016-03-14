@@ -1,0 +1,197 @@
+	<svg
+	  xmlns="http://www.w3.org/1000/svg"
+	  xmlns:xlink="http://www.w3.org/1999/xlink"
+	  version="1.1"
+	  width="800"
+	  height="1280">
+		<!--background-->
+		<rect
+		  x="0"
+		  y="0"
+		  width="800"
+		  height="1280"
+		  fill="grey" />
+		<!--x-axe-->
+		<line
+		  x1="0"
+		  y1="1000"
+		  x2="800"
+		  y2="1000"
+		  stroke="black" />
+		<!--x-axe-1-->
+		<line
+		  x1="0"
+		  y1="1100"
+		  x2="800"
+		  y2="1100"
+		  stroke="black" />
+		<!--x-axe-2-->
+		<line
+		  x1="0"
+		  y1="1200"
+		  x2="800"
+		  y2="1200"
+		  stroke="black" />
+		<!--vert-lines-->
+		<line
+		  x1="$0;10;800"
+		  y1="0"
+		  x2="$0;10;800"
+		  y2="1000"
+		  stroke="lightgrey" />
+		<!--vert-lines-5-->
+		<line
+		  x1="$0;50;800"
+		  y1="950"
+		  x2="$0;50;800"
+		  y2="1000"
+		  stroke="blue" />
+		<!--vert-lines-1-->
+		<line
+		  x1="$0;5;800"
+		  y1="1000"
+		  x2="$0;5;800"
+		  y2="1200"
+		  stroke="lightgrey" />
+		<!--vert-lines-1-5-->
+		<line
+		  x1="$0;25;800"
+		  y1="1000"
+		  x2="$0;25;800"
+		  y2="1200"
+		  stroke="blue" />
+		<!--vert-lines-2-->
+		<line
+		  x1="$0;10;800"
+		  y1="1200"
+		  x2="$0;10;800"
+		  y2="1280"
+		  stroke="lightgrey" />
+		<!--vert-lines-2-5-->
+		<line
+		  x1="$0;50;800"
+		  y1="1200"
+		  x2="$0;50;800"
+		  y2="1280"
+		  stroke="blue" />
+		<!--gor-lines-up-->
+		<line
+		  x1="0"
+		  y1="$0;50;1000"
+		  x2="800"
+		  y2="$0;50;1000"
+		  stroke="lightgrey" />
+		<!--image-->
+		<image
+		  x="$[time] * 10 - 30 * [dx]"
+		  y= "$1000 - [cost] / 2 - 30 * [dy]"
+		  width="30"
+		  height="30"
+		  xlink:href="$file"/>
+		<!--circle-->
+		<circle
+		  cx="$[time] * 10"
+		  cy= "$1000 - [cost] / 2"
+		  r="4"/>
+		<!--text-->
+		<text
+		  x="$[time] * 10"
+		  y= "$1000 - [cost] / 2">$structure</text>
+		<!--text-hor-rule-->
+		<text
+		  x="$0;50;800"
+		  y= "1000">$0;5;80</text>
+		<!--text-hor-rule-1-->
+		<text
+		  x="$0;25;800"
+		  y= "1100">$0;5;160</text>
+		<!--text-hor-rule-2-->
+		<text
+		  x="$0;50;800"
+		  y= "1200">$0;5;80</text>
+		<!--text-vert-rule-up-->
+		<text
+		  x="700"
+		  y= "$0;50;1000">$0;100;2000</text>
+		<!--hor-image-lines-->
+		<line
+		  x1="0"
+		  y1="$1000 - [cost] / 2"
+		  x2="$[time] * 10"
+		  y2="$1000 - [cost] / 2"
+		  stroke="black" />
+		<!--vert-image-lines-->
+		<line
+		  x1="$[time] * 10"
+		  y1="$1000 - [cost] / 2"
+		  x2="$[time] * 10"
+		  y2="1000"
+		  stroke="black" />
+		<!--side-image-rent-->
+		<line
+		  x1="$[time] * 10"
+		  y1="$1000 - [cost] / 2"
+		  x2="$[time] * 10 + 120"
+		  y2="$1000 - [cost] / 2 -[rent] * 12 / 2"
+		  stroke="black" />
+  		<!--image-line-->
+		<line
+		  x1="$[time] * 10 + 30"
+		  y1="$1000 - [cost] / 2 -[rent] * 3 / 2"
+		  x2="$[time] * 10 + 30 + 5"
+		  y2="$1000 - [cost] / 2 -[rent] * 3 / 2"
+		  stroke="black"/>
+		<line
+		  x1="$[time] * 10 + 60"
+		  y1="$1000 - [cost] / 2 -[rent] * 6 / 2"
+		  x2="$[time] * 10 + 60 + 5"
+		  y2="$1000 - [cost] / 2 -[rent] * 6 / 2"
+		  stroke="black"/>
+		<line
+		  x1="$[time] * 10 + 90"
+		  y1="$1000 - [cost] / 2 -[rent] * 9 / 2"
+		  x2="$[time] * 10 + 90 + 5"
+		  y2="$1000 - [cost] / 2 -[rent] * 9 / 2"
+		  stroke="black"/>		  
+		<!--side-image-rent-1-->
+		<line
+		  x1="$[time] * 10"
+		  y1="1000"
+		  x2="$[time] * 10 + 120"
+		  y2="$1000 -[rent] * 12 / 2"
+		  stroke="red" />
+  		<!--image-line-1-->
+		<line
+		  x1="$[time] * 10 + 30"
+		  y1="$1000 -[rent] * 3 / 2"
+		  x2="$[time] * 10 + 30 + 5"
+		  y2="$1000 -[rent] * 3 / 2"
+		  stroke="fill:rgb(255,225,$0;10;170$)"/>
+		<line
+		  x1="$[time] * 10 + 60"
+		  y1="$1000 -[rent] * 6 / 2"
+		  x2="$[time] * 10 + 60 + 5"
+		  y2="$1000 -[rent] * 6 / 2"
+		  stroke="fill:rgb(255,225,$0;10;170$)"/>
+		<line
+		  x1="$[time] * 10 + 90"
+		  y1="$1000 -[rent] * 9 / 2"
+		  x2="$[time] * 10 + 90 + 5"
+		  y2="$1000 -[rent] * 9 / 2"
+		  stroke="fill:rgb(255,225,$0;10;170$)"/>		  
+		<!--down-image-30-->
+		<line
+		  x1="$[time] * 10"
+		  y1="1000"
+		  x2="$(30 - [time]) * 10"
+		  y2="1200"
+		  stroke="black" />
+		  
+		<!--down-image-30-->
+		<line
+		  x1="$[time] * 10"
+		  y1="1000"
+		  x2="$(60 - [time]) * 10"
+		  y2="1200"
+		  stroke="black" />
+	</svg>

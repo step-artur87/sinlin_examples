@@ -1,0 +1,2960 @@
+<?xml version="1.0" ?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1600">
+	<defs>
+		<pattern id="Pattern_vert_darkred" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkred"></line>
+		</pattern>
+		<pattern id="Pattern_vert_darkorange" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkorange"></line>
+		</pattern>
+		<pattern id="Pattern_vert_yellowgreen" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="yellowgreen"></line>
+		</pattern>
+		<pattern id="Pattern_vert_darkgreen" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkgreen"></line>
+		</pattern>
+		<pattern id="Pattern_vert_darkblue" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkblue"></line>
+		</pattern>
+		<pattern id="Pattern_vert_darkslateblue" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkslateblue"></line>
+		</pattern>
+		<pattern id="Pattern_vert_darkviolet" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+			<line y2="10" stroke="darkviolet"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkred" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkred"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkorange" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkorange"></line>
+		</pattern>
+		<pattern id="Pattern_gor_yellowgreen" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="yellowgreen"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkgreen" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkgreen"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkblue" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkblue"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkslateblue" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkslateblue"></line>
+		</pattern>
+		<pattern id="Pattern_gor_darkviolet" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="15">
+			<line x2="10" stroke="darkviolet"></line>
+		</pattern>
+	</defs>
+	<rect width="2560" height="1600" fill="grey"></rect>
+	<g id="all" transform="translate(50,600)">
+		<g id="x" transform="translate(0,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				0h
+			</text>
+		</g>
+		<g id="x" transform="translate(90,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				1h
+			</text>
+		</g>
+		<g id="x" transform="translate(180,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				2h
+			</text>
+		</g>
+		<g id="x" transform="translate(270,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				3h
+			</text>
+		</g>
+		<g id="x" transform="translate(360,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				4h
+			</text>
+		</g>
+		<g id="x" transform="translate(450,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				5h
+			</text>
+		</g>
+		<g id="x" transform="translate(540,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				6h
+			</text>
+		</g>
+		<g id="x" transform="translate(630,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				7h
+			</text>
+		</g>
+		<g id="x" transform="translate(720,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				8h
+			</text>
+		</g>
+		<g id="x" transform="translate(810,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				9h
+			</text>
+		</g>
+		<g id="x" transform="translate(900,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				10h
+			</text>
+		</g>
+		<g id="x" transform="translate(990,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				11h
+			</text>
+		</g>
+		<g id="x" transform="translate(1080,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				12h
+			</text>
+		</g>
+		<g id="x" transform="translate(1170,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				13h
+			</text>
+		</g>
+		<g id="x" transform="translate(1260,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				14h
+			</text>
+		</g>
+		<g id="x" transform="translate(1350,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				15h
+			</text>
+		</g>
+		<g id="x" transform="translate(1440,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				16h
+			</text>
+		</g>
+		<g id="x" transform="translate(1530,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				17h
+			</text>
+		</g>
+		<g id="x" transform="translate(1620,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				18h
+			</text>
+		</g>
+		<g id="x" transform="translate(1710,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				19h
+			</text>
+		</g>
+		<g id="x" transform="translate(1800,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				20h
+			</text>
+		</g>
+		<g id="x" transform="translate(1890,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				21h
+			</text>
+		</g>
+		<g id="x" transform="translate(1980,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				22h
+			</text>
+		</g>
+		<g id="x" transform="translate(2070,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				23h
+			</text>
+		</g>
+		<g id="x" transform="translate(2160,0)">
+			<line y1="540" y2="-540" stroke="rgb(159,159,159)"></line>
+			<text x="2" y="12">
+				24h
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,0)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				0
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,90)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-15
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,180)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-30
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,270)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-45
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,360)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-60
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,450)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-75
+			</text>
+		</g>
+		<g id="-y" transform="translate(0,540)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				-90
+			</text>
+		</g>
+		<g id="y" transform="translate(0,0)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				0
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-90)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				15
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-180)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				30
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-270)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				45
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-360)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				60
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-450)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				75
+			</text>
+		</g>
+		<g id="y" transform="translate(0,-540)">
+			<line x1="0" x2="2160" stroke="rgb(159,159,159)"></line>
+			<text>
+				90
+			</text>
+		</g>
+		<g id="objs_img" transform="translate(501.124999968,-132.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Crab_Nebula.jpg">
+				<image xlink:href="pict/75px-Crab_Nebula.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1939.62499992,4.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_2_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_2_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1233.05000004,-170.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M3LRGB_891x674.jpg">
+				<image xlink:href="pict/75px-M3LRGB_891x674.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1474.649999928,159.18)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_4_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_4_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1377.149999904,-12.48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_5_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_5_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1590.025000032,193.32)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M6a.jpg">
+				<image xlink:href="pict/75px-M6a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1609.725000096,208.92000000000002)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Open-cluster-Messier-7.jpeg">
+				<image xlink:href="pict/75px-Open-cluster-Messier-7.jpeg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1624.6999999440002,146.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:LagoonHunterWilson.jpg">
+				<image xlink:href="pict/75px-LagoonHunterWilson.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1558.549999944,111.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_009.jpg">
+				<image xlink:href="pict/75px-Messier_object_009.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1525.525000056,24.599999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_10_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_10_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1696.5249999119999,37.62)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier11.jpg">
+				<image xlink:href="pict/75px-Messier11.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1510.549999992,11.7)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M12_Hubble.jpg">
+				<image xlink:href="pict/75px-M12_Hubble.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1501.600000032,-218.70000000000002)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_13_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_13_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1585.649999952,19.5)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_014.jpg">
+				<image xlink:href="pict/75px-Messier_object_014.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1934.999999928,-73.02)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_15_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_15_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1647.200000016,82.67999999999999)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Stellar_spire_eagle_nebula.jpg">
+				<image xlink:href="pict/75px-Stellar_spire_eagle_nebula.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1650.20000004,97.08)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_17.jpg">
+				<image xlink:href="pict/75px-Messier_17.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1648.724999976,102.78)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier18.jpg">
+				<image xlink:href="pict/75px-Messier18.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1533.150000072,157.62)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_019.jpg">
+				<image xlink:href="pict/75px-Messier_object_019.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(27.057500064000003,138.18)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Trifid.nebula.arp.750pix.jpg">
+				<image xlink:href="pict/75px-Trifid.nebula.arp.750pix.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1626.149999952,135)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_021.jpg">
+				<image xlink:href="pict/75px-Messier_object_021.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1674.100000008,143.39999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_022.jpg">
+				<image xlink:href="pict/75px-Messier_object_022.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1614.199999968,114.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_023.jpg">
+				<image xlink:href="pict/75px-Messier_object_023.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1644.2250000479999,110.88)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_024_2MASS.jpg">
+				<image xlink:href="pict/75px-Messier_024_2MASS.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1666.6499999520001,115.5)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_025.jpg">
+				<image xlink:href="pict/75px-Messier_object_025.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1687.5499998960001,56.400000000000006)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_026.jpg">
+				<image xlink:href="pict/75px-Messier_object_026.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1798.6499999280002,-136.32)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier27.jpg">
+				<image xlink:href="pict/75px-Messier27.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1656.12499992,149.22)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier28.jpg">
+				<image xlink:href="pict/75px-Messier28.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1834.724999952,-231.18)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_029.jpg">
+				<image xlink:href="pict/75px-Messier_object_029.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1950.100000056,139.07999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_030.jpg">
+				<image xlink:href="pict/75px-Messier_object_030.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(63.200000088,-247.62)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Andromeda_galaxy.jpg">
+				<image xlink:href="pict/75px-Andromeda_galaxy.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(63.17500003200001,-245.21999999999997)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M32.jpg">
+				<image xlink:href="pict/75px-M32.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(154.724999904,-183.89999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M33.jpg">
+				<image xlink:href="pict/75px-M33.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(243,-256.68)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M34_2mass_atlas.jpg">
+				<image xlink:href="pict/75px-M34_2mass_atlas.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(553.525000056,-146.10000000000002)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M35atlas.jpg">
+				<image xlink:href="pict/75px-M35atlas.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(504.05000004,-204.78000000000003)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M36_2mass.jpg">
+				<image xlink:href="pict/75px-M36_2mass.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(528.0999999119999,-195.29999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M37a.jpg">
+				<image xlink:href="pict/75px-M37a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(492.175000008,-215.10000000000002)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_038.jpg">
+				<image xlink:href="pict/75px-Messier_object_038.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1936.700000064,-290.58)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_039.jpg">
+				<image xlink:href="pict/75px-Messier_object_039.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1113.0499999439999,-348.48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_40.jpg">
+				<image xlink:href="pict/75px-Messier_object_40.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(608.999999904,124.5)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_041_2MASS.jpg">
+				<image xlink:href="pict/75px-Messier_041_2MASS.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(502.600000032,32.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg">
+				<image xlink:href="pict/75px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(502.625000088,31.619999999999997)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_043.jpg">
+				<image xlink:href="pict/75px-Messier_object_043.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(780.0999999840001,-118.08)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_044_2MASS.jpg">
+				<image xlink:href="pict/75px-Messier_044_2MASS.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(340.500000024,-144.72)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Bob_Star_-_M45_Carranza_Field_(by).jpg">
+				<image xlink:href="pict/75px-Bob_Star_-_M45_Carranza_Field_(by).jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(691.7000000400001,88.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M46a.jpg">
+				<image xlink:href="pict/75px-M46a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(684.149999976,87)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M47a.jpg">
+				<image xlink:href="pict/75px-M47a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(739.674999936,34.5)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M48a.jpg">
+				<image xlink:href="pict/75px-M48a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1123.7000000399998,-48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_49_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_49_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(633.199999896,-50.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M50a.jpg">
+				<image xlink:href="pict/75px-M50a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1213.724999952,-283.20000000000005)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Whirlpool_(M51).jpg">
+				<image xlink:href="pict/75px-Whirlpool_(M51).jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(2106.049999896,-369.48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M52atlas.jpg">
+				<image xlink:href="pict/75px-M52atlas.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1188.2250000719998,-109.02000000000001)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Globular_Cluster_M53.jpg">
+				<image xlink:href="pict/75px-Globular_Cluster_M53.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1702.52499996,182.88)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier54.jpg">
+				<image xlink:href="pict/75px-Messier54.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1769.9999999039999,185.82)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier55.jpg">
+				<image xlink:href="pict/75px-Messier55.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1734.1499999520001,-181.07999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M56-LRGB.jpg">
+				<image xlink:href="pict/75px-M56-LRGB.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1699.65,-198.18)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Ring_Nebula.jpg">
+				<image xlink:href="pict/75px-Ring_Nebula.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1135.67500008,-70.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M58s.jpg">
+				<image xlink:href="pict/75px-M58s.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1143.000000072,-69.9)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier59.jpg">
+				<image xlink:href="pict/75px-Messier59.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1144.674999936,-69.30000000000001)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_060.jpg">
+				<image xlink:href="pict/75px-Messier_object_060.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1111.725,-26.82)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_061.jpg">
+				<image xlink:href="pict/75px-Messier_object_061.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1531.5499999439999,180.72)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_062.jpg">
+				<image xlink:href="pict/75px-Messier_object_062.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1192.699999944,-252.18)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_63_GALEX_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_63_GALEX_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1164.174999984,-130.07999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Blackeyegalaxy.jpg">
+				<image xlink:href="pict/75px-Blackeyegalaxy.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1017.225,-78.48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M65.jpg">
+				<image xlink:href="pict/75px-M65.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1020.050000064,-77.88)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Sig05-016.jpg">
+				<image xlink:href="pict/75px-Sig05-016.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(796.6000000079999,-70.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_067.jpg">
+				<image xlink:href="pict/75px-Messier_object_067.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1138.6249999919999,160.5)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_068.jpg">
+				<image xlink:href="pict/75px-Messier_object_068.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1666.600000056,-194.10000000000002)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_069.jpg">
+				<image xlink:href="pict/75px-Messier_object_069.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1684.5500000880002,193.68)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier70.jpg">
+				<image xlink:href="pict/75px-Messier70.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1789.699999968,-112.68)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier71.jpg">
+				<image xlink:href="pict/75px-Messier71.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1879.625000088,75.17999999999999)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier72.jpg">
+				<image xlink:href="pict/75px-Messier72.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1887.225000048,75.78)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_073_2MASS.jpg">
+				<image xlink:href="pict/75px-Messier_073_2MASS.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(144.175000032,-94.67999999999999)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:PESSTO_Snaps_Supernova_in_Messier_74.jpg">
+				<image xlink:href="pict/75px-PESSTO_Snaps_Supernova_in_Messier_74.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1809.025000056,131.52)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier75.jpg">
+				<image xlink:href="pict/75px-Messier75.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(153.075000096,-309.42)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M76-RL5-DDmin-Gamma-LRGB_883x628.jpg">
+				<image xlink:href="pict/75px-M76-RL5-DDmin-Gamma-LRGB_883x628.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(243.17499996,0.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:NGC1068-hst-R658GB814.jpg">
+				<image xlink:href="pict/75px-NGC1068-hst-R658GB814.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(519.175000008,-0.30000000000000004)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_78.jpg">
+				<image xlink:href="pict/75px-Messier_78.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(486.049999896,147.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M79a.jpg">
+				<image xlink:href="pict/75px-M79a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1465.499999952,137.88)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg">
+				<image xlink:href="pict/75px-A_Swarm_of_Ancient_Stars_-_GPN-2000-000930.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(892.624999968,-414.41999999999996)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Sig07-009.jpg">
+				<image xlink:href="pict/75px-Sig07-009.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(892.7249999759999,-418.08000000000004)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier82.jpg">
+				<image xlink:href="pict/75px-Messier82.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1225.499999976,179.22)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Hubble_view_of_barred_spiral_galaxy_Messier_83.jpg">
+				<image xlink:href="pict/75px-Hubble_view_of_barred_spiral_galaxy_Messier_83.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1117.525000032,-77.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_84_nucleus_Hubble.jpg">
+				<image xlink:href="pict/75px-Messier_84_nucleus_Hubble.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1117.599999984,-109.08)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_85_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_85_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1119.049999992,-77.69999999999999)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_86_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_86_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1125.199999944,-74.28)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M87_jet.jpg">
+				<image xlink:href="pict/75px-M87_jet.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1127.999999952,-86.52)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_088.jpg">
+				<image xlink:href="pict/75px-Messier_object_088.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1132.675000056,-75.30000000000001)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_089.jpg">
+				<image xlink:href="pict/75px-Messier_object_089.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1134.2000000159999,-79.02)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_090.jpg">
+				<image xlink:href="pict/75px-Messier_object_090.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1132.600000104,-87)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier91.jpg">
+				<image xlink:href="pict/75px-Messier91.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1555.52500008,-258.78000000000003)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Globular_Cluster_M92.JPG">
+				<image xlink:href="pict/75px-Globular_Cluster_M92.JPG" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(696.150000072,143.22)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_093.jpg">
+				<image xlink:href="pict/75px-Messier_object_093.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1155.225000024,-246.71999999999997)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_094.jpg">
+				<image xlink:href="pict/75px-Messier_object_094.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(965.999999952,-70.19999999999999)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier95_spitzer.jpg">
+				<image xlink:href="pict/75px-Messier95_spitzer.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(969.199999992,-70.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_096.jpg">
+				<image xlink:href="pict/75px-Messier_object_096.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1011.199999896,-330.12)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M97_FTN.jpg">
+				<image xlink:href="pict/75px-M97_FTN.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1099.700000064,-89.4)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M-98.jpg">
+				<image xlink:href="pict/75px-M-98.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1107.200000016,-86.52)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M99.jpg">
+				<image xlink:href="pict/75px-M99.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1113.224999904,-94.92)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Spiral_Galaxy_M100.jpg">
+				<image xlink:href="pict/75px-Spiral_Galaxy_M100.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1264.5499999679998,-326.1)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M101_hires_STScI-PRC2006-10a.jpg">
+				<image xlink:href="pict/75px-M101_hires_STScI-PRC2006-10a.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1359.1249999200002,-334.62)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:">
+				<image xlink:href="pict/75px-" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(139.55000004,-364.20000000000005)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_103.jpg">
+				<image xlink:href="pict/75px-Messier_object_103.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1140.000000048,69.72)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:M104_ngc4594_sombrero_galaxy_hi-res.jpg">
+				<image xlink:href="pict/75px-M104_ngc4594_sombrero_galaxy_hi-res.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(970.699999896,-75.48)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_105.jpg">
+				<image xlink:href="pict/75px-Messier_object_105.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1108.4999999039999,-283.79999999999995)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_106_by_Spitzer.jpg">
+				<image xlink:href="pict/75px-Messier_106_by_Spitzer.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1488.1250000880002,78.30000000000001)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_107.jpg">
+				<image xlink:href="pict/75px-Messier_object_107.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1006.6250000160001,-334.02)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_108_Hubble_WikiSky.jpg">
+				<image xlink:href="pict/75px-Messier_108_Hubble_WikiSky.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(1075.6499999760001,-320.28000000000003)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_109.jpg">
+				<image xlink:href="pict/75px-Messier_object_109.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs_img" transform="translate(60.100000056,-250.07999999999998)">
+			<a xlink:href="https://en.wikipedia.org/wiki/File:Messier_object_110.jpg">
+				<image xlink:href="pict/75px-Messier_object_110.jpg" width="75" height="75"></image>
+			</a>
+		</g>
+		<g id="objs" transform="translate(501.124999968,-132.12)">
+			<circle r="9" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="6.300000000000001" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="9" x2="20.362198533589947" y2="11.362198533589947" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="11.362198533589947" y2="17.662198533589947" stroke="darkviolet"></line1>
+			<line id="diag" x1="9" y1="6.300000000000001" x2="20.362198533589947" y2="17.662198533589947" stroke="darkviolet"></line>
+			<line1 id="gor" x1="11.362198533589947" y1="17.662198533589947" x2="20.362198533589947" y2="17.662198533589947" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="20.362198533589947" y1="11.362198533589947" x2="20.362198533589947" y2="17.662198533589947" stroke="darkviolet"></line1>
+			<g transform="translate(9,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="11.362198533589947"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m001.html">
+				<text y="-2" font-size="4" fill="white">
+					Крабоподібна туманність 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1939.62499992,4.92)">
+			<circle r="7.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="19.8" height="19.8" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="19.8" x2="38.13407575382444" y2="18.33407575382444" stroke="darkorange"></line1>
+			<line1 id="diag" y1="19.8" x2="18.33407575382444" y2="38.13407575382444" stroke="darkorange"></line1>
+			<line id="diag" x1="19.8" y1="19.8" x2="38.13407575382444" y2="38.13407575382444" stroke="darkorange"></line>
+			<line1 id="gor" x1="18.33407575382444" y1="38.13407575382444" x2="38.13407575382444" y2="38.13407575382444" stroke="darkorange"></line1>
+			<line1 id="vert" x1="38.13407575382444" y1="18.33407575382444" x2="38.13407575382444" y2="38.13407575382444" stroke="darkorange"></line1>
+			<g transform="translate(19.8,19.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="18.33407575382444"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="19.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="19.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m002.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 2 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1233.05000004,-170.28)">
+			<circle r="7" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="24.3" height="24.3" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="24.3" x2="42.035948817940586" y2="17.735948817940585" stroke="darkorange"></line1>
+			<line1 id="diag" y1="24.3" x2="17.735948817940585" y2="42.035948817940586" stroke="darkorange"></line1>
+			<line id="diag" x1="24.3" y1="24.3" x2="42.035948817940586" y2="42.035948817940586" stroke="darkorange"></line>
+			<line1 id="gor" x1="17.735948817940585" y1="42.035948817940586" x2="42.035948817940586" y2="42.035948817940586" stroke="darkorange"></line1>
+			<line1 id="vert" x1="42.035948817940586" y1="17.735948817940585" x2="42.035948817940586" y2="42.035948817940586" stroke="darkorange"></line1>
+			<g transform="translate(24.3,24.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="17.735948817940585"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="24.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="24.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m003.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 3 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1474.649999928,159.18)">
+			<circle r="7.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="38.7" height="38.7" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="38.7" x2="50.48364059622126" y2="11.783640596221254" stroke="darkred"></line1>
+			<line1 id="diag" y1="38.7" x2="11.783640596221254" y2="50.48364059622126" stroke="darkred"></line1>
+			<line id="diag" x1="38.7" y1="38.7" x2="50.48364059622126" y2="50.48364059622126" stroke="darkred"></line>
+			<line1 id="gor" x1="11.783640596221254" y1="50.48364059622126" x2="50.48364059622126" y2="50.48364059622126" stroke="darkred"></line1>
+			<line1 id="vert" x1="50.48364059622126" y1="11.783640596221254" x2="50.48364059622126" y2="50.48364059622126" stroke="darkred"></line1>
+			<g transform="translate(38.7,38.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="11.783640596221254"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="38.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="38.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m004.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 4 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1377.149999904,-12.48)">
+			<circle r="7" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="25.200000000000003" height="25.200000000000003" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="25.200000000000003" x2="41.7419768637166" y2="16.5419768637166" stroke="darkorange"></line1>
+			<line1 id="diag" y1="25.200000000000003" x2="16.5419768637166" y2="41.7419768637166" stroke="darkorange"></line1>
+			<line id="diag" x1="25.200000000000003" y1="25.200000000000003" x2="41.7419768637166" y2="41.7419768637166" stroke="darkorange"></line>
+			<line1 id="gor" x1="16.5419768637166" y1="41.7419768637166" x2="41.7419768637166" y2="41.7419768637166" stroke="darkorange"></line1>
+			<line1 id="vert" x1="41.7419768637166" y1="16.5419768637166" x2="41.7419768637166" y2="41.7419768637166" stroke="darkorange"></line1>
+			<g transform="translate(25.200000000000003,25.200000000000003)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="16.5419768637166"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="25.200000000000003" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="25.200000000000003"></rect>
+			<a xlink:href="http://messier.seds.org/m/m005.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 5 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1590.025000032,193.32)">
+			<circle r="4.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="37.8" height="37.8" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="37.8" x2="44.57258872223978" y2="6.772588722239782" stroke="darkorange"></line1>
+			<line1 id="diag" y1="37.8" x2="6.772588722239782" y2="44.57258872223978" stroke="darkorange"></line1>
+			<line id="diag" x1="37.8" y1="37.8" x2="44.57258872223978" y2="44.57258872223978" stroke="darkorange"></line>
+			<line1 id="gor" x1="6.772588722239782" y1="44.57258872223978" x2="44.57258872223978" y2="44.57258872223978" stroke="darkorange"></line1>
+			<line1 id="vert" x1="44.57258872223978" y1="6.772588722239782" x2="44.57258872223978" y2="44.57258872223978" stroke="darkorange"></line1>
+			<g transform="translate(37.8,37.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="6.772588722239782"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="37.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="37.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m006.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Метелик 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1609.725000096,208.92000000000002)">
+			<circle r="3.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="119.7" height="119.7" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="119.7" x2="123.7" y2="4" stroke="darkorange"></line1>
+			<line1 id="diag" y1="119.7" x2="4" y2="123.7" stroke="darkorange"></line1>
+			<line id="diag" x1="119.7" y1="119.7" x2="123.7" y2="123.7" stroke="darkorange"></line>
+			<line1 id="gor" x1="4" y1="123.7" x2="123.7" y2="123.7" stroke="darkorange"></line1>
+			<line1 id="vert" x1="123.7" y1="4" x2="123.7" y2="123.7" stroke="darkorange"></line1>
+			<g transform="translate(119.7,119.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="4"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="119.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="119.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m007.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Птоломея 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1624.6999999440002,146.28)">
+			<circle r="5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="135" height="60.300000000000004" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="135" x2="146.48720870760636" y2="11.487208707606365" stroke="darkorange"></line1>
+			<line1 id="diag" y1="60.300000000000004" x2="11.487208707606365" y2="71.78720870760637" stroke="darkorange"></line1>
+			<line id="diag" x1="135" y1="60.300000000000004" x2="146.48720870760636" y2="71.78720870760637" stroke="darkorange"></line>
+			<line1 id="gor" x1="11.487208707606365" y1="71.78720870760637" x2="146.48720870760636" y2="71.78720870760637" stroke="darkorange"></line1>
+			<line1 id="vert" x1="146.48720870760636" y1="11.487208707606365" x2="146.48720870760636" y2="71.78720870760637" stroke="darkorange"></line1>
+			<g transform="translate(135,60.300000000000004)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="11.487208707606365"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="135" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="60.300000000000004"></rect>
+			<a xlink:href="http://messier.seds.org/m/m008.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Лагуна 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1558.549999944,111.12)">
+			<circle r="9" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="13.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="13.5" x2="30.532386152085927" y2="17.032386152085927" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="13.5" x2="17.032386152085927" y2="30.532386152085927" stroke="darkviolet"></line1>
+			<line id="diag" x1="13.5" y1="13.5" x2="30.532386152085927" y2="30.532386152085927" stroke="darkviolet"></line>
+			<line1 id="gor" x1="17.032386152085927" y1="30.532386152085927" x2="30.532386152085927" y2="30.532386152085927" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="30.532386152085927" y1="17.032386152085927" x2="30.532386152085927" y2="30.532386152085927" stroke="darkviolet"></line1>
+			<g transform="translate(13.5,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="17.032386152085927"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m009.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 9 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1525.525000056,24.599999999999998)">
+			<circle r="7.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="22.5" height="22.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="22.5" x2="36.759797429846145" y2="14.259797429846147" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="22.5" x2="14.259797429846147" y2="36.759797429846145" stroke="darkviolet"></line1>
+			<line id="diag" x1="22.5" y1="22.5" x2="36.759797429846145" y2="36.759797429846145" stroke="darkviolet"></line>
+			<line1 id="gor" x1="14.259797429846147" y1="36.759797429846145" x2="36.759797429846145" y2="36.759797429846145" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="36.759797429846145" y1="14.259797429846147" x2="36.759797429846145" y2="36.759797429846145" stroke="darkviolet"></line1>
+			<g transform="translate(22.5,22.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="14.259797429846147"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="22.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="22.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m010.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 10 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1696.5249999119999,37.62)">
+			<circle r="7" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="20.7" height="20.7" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="20.7" x2="31.86703787691222" y2="11.16703787691222" stroke="darkred"></line1>
+			<line1 id="diag" y1="20.7" x2="11.16703787691222" y2="31.86703787691222" stroke="darkred"></line1>
+			<line id="diag" x1="20.7" y1="20.7" x2="31.86703787691222" y2="31.86703787691222" stroke="darkred"></line>
+			<line1 id="gor" x1="11.16703787691222" y1="31.86703787691222" x2="31.86703787691222" y2="31.86703787691222" stroke="darkred"></line1>
+			<line1 id="vert" x1="31.86703787691222" y1="11.16703787691222" x2="31.86703787691222" y2="31.86703787691222" stroke="darkred"></line1>
+			<g transform="translate(20.7,20.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="11.16703787691222"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="20.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="20.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m011.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Дика Качка 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1510.549999992,11.7)">
+			<circle r="8" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="20.7" height="20.7" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="20.7" x2="36.26148703158466" y2="15.561487031584658" stroke="darkorange"></line1>
+			<line1 id="diag" y1="20.7" x2="15.561487031584658" y2="36.26148703158466" stroke="darkorange"></line1>
+			<line id="diag" x1="20.7" y1="20.7" x2="36.26148703158466" y2="36.26148703158466" stroke="darkorange"></line>
+			<line1 id="gor" x1="15.561487031584658" y1="36.26148703158466" x2="36.26148703158466" y2="36.26148703158466" stroke="darkorange"></line1>
+			<line1 id="vert" x1="36.26148703158466" y1="15.561487031584658" x2="36.26148703158466" y2="36.26148703158466" stroke="darkorange"></line1>
+			<g transform="translate(20.7,20.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="15.561487031584658"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="20.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="20.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m012.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 12 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1501.600000032,-218.70000000000002)">
+			<circle r="7" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="24.3" height="24.3" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="24.3" x2="40.66416981343326" y2="16.364169813433264" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="24.3" x2="16.364169813433264" y2="40.66416981343326" stroke="darkviolet"></line1>
+			<line id="diag" x1="24.3" y1="24.3" x2="40.66416981343326" y2="40.66416981343326" stroke="darkviolet"></line>
+			<line1 id="gor" x1="16.364169813433264" y1="40.66416981343326" x2="40.66416981343326" y2="40.66416981343326" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="40.66416981343326" y1="16.364169813433264" x2="40.66416981343326" y2="40.66416981343326" stroke="darkviolet"></line1>
+			<g transform="translate(24.3,24.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="16.364169813433264"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="24.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="24.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m013.html">
+				<text y="-2" font-size="4" fill="white">
+					Кулясте скупчення Геркулеса 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1585.649999952,19.5)">
+			<circle r="9.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="18" height="18" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="18" x2="35.18334746401732" y2="17.183347464017316" stroke="darkred"></line1>
+			<line1 id="diag" y1="18" x2="17.183347464017316" y2="35.18334746401732" stroke="darkred"></line1>
+			<line id="diag" x1="18" y1="18" x2="35.18334746401732" y2="35.18334746401732" stroke="darkred"></line>
+			<line1 id="gor" x1="17.183347464017316" y1="35.18334746401732" x2="35.18334746401732" y2="35.18334746401732" stroke="darkred"></line1>
+			<line1 id="vert" x1="35.18334746401732" y1="17.183347464017316" x2="35.18334746401732" y2="35.18334746401732" stroke="darkred"></line1>
+			<g transform="translate(18,18)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="17.183347464017316"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="18" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="18"></rect>
+			<a xlink:href="http://messier.seds.org/m/m014.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 14 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1934.999999928,-73.02)">
+			<circle r="7.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="18" height="18" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="18" x2="35.98603024586592" y2="17.98603024586592" stroke="darkorange"></line1>
+			<line1 id="diag" y1="18" x2="17.98603024586592" y2="35.98603024586592" stroke="darkorange"></line1>
+			<line id="diag" x1="18" y1="18" x2="35.98603024586592" y2="35.98603024586592" stroke="darkorange"></line>
+			<line1 id="gor" x1="17.98603024586592" y1="35.98603024586592" x2="35.98603024586592" y2="35.98603024586592" stroke="darkorange"></line1>
+			<line1 id="vert" x1="35.98603024586592" y1="17.98603024586592" x2="35.98603024586592" y2="35.98603024586592" stroke="darkorange"></line1>
+			<g transform="translate(18,18)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="17.98603024586592"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="18" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="18"></rect>
+			<a xlink:href="http://messier.seds.org/m/m015.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 15 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1647.200000016,82.67999999999999)">
+			<circle r="6.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="22.58364059622125" y2="11.783640596221254" stroke="darkred"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="11.783640596221254" y2="22.58364059622125" stroke="darkred"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="22.58364059622125" y2="22.58364059622125" stroke="darkred"></line>
+			<line1 id="gor" x1="11.783640596221254" y1="22.58364059622125" x2="22.58364059622125" y2="22.58364059622125" stroke="darkred"></line1>
+			<line1 id="vert" x1="22.58364059622125" y1="11.783640596221254" x2="22.58364059622125" y2="22.58364059622125" stroke="darkred"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="11.783640596221254"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m016.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Орла 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1650.20000004,97.08)">
+			<circle r="7" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="16.2" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="16.2" x2="26.6377516497364" y2="10.437751649736402" stroke="#N/A"></line1>
+			<line1 id="diag" y1="16.2" x2="10.437751649736402" y2="26.6377516497364" stroke="#N/A"></line1>
+			<line id="diag" x1="16.2" y1="16.2" x2="26.6377516497364" y2="26.6377516497364" stroke="#N/A"></line>
+			<line1 id="gor" x1="10.437751649736402" y1="26.6377516497364" x2="26.6377516497364" y2="26.6377516497364" stroke="#N/A"></line1>
+			<line1 id="vert" x1="26.6377516497364" y1="10.437751649736402" x2="26.6377516497364" y2="26.6377516497364" stroke="#N/A"></line1>
+			<g transform="translate(16.2,16.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="10.437751649736402"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="16.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m017.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Омега 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1648.724999976,102.78)">
+			<circle r="8" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="13.5" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="13.5" x2="24.667037876912218" y2="11.16703787691222" stroke="darkred"></line1>
+			<line1 id="diag" y1="13.5" x2="11.16703787691222" y2="24.667037876912218" stroke="darkred"></line1>
+			<line id="diag" x1="13.5" y1="13.5" x2="24.667037876912218" y2="24.667037876912218" stroke="darkred"></line>
+			<line1 id="gor" x1="11.16703787691222" y1="24.667037876912218" x2="24.667037876912218" y2="24.667037876912218" stroke="darkred"></line1>
+			<line1 id="vert" x1="24.667037876912218" y1="11.16703787691222" x2="24.667037876912218" y2="24.667037876912218" stroke="darkred"></line1>
+			<g transform="translate(13.5,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="11.16703787691222"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m018.html">
+				<text y="-2" font-size="4" fill="white">
+					Чорний Лебідь 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1533.150000072,157.62)">
+			<circle r="8.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="19.8" height="19.8" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="19.8" x2="36.983347464017314" y2="17.183347464017316" stroke="darkred"></line1>
+			<line1 id="diag" y1="19.8" x2="17.183347464017316" y2="36.983347464017314" stroke="darkred"></line1>
+			<line id="diag" x1="19.8" y1="19.8" x2="36.983347464017314" y2="36.983347464017314" stroke="darkred"></line>
+			<line1 id="gor" x1="17.183347464017316" y1="36.983347464017314" x2="36.983347464017314" y2="36.983347464017314" stroke="darkred"></line1>
+			<line1 id="vert" x1="36.983347464017314" y1="17.183347464017316" x2="36.983347464017314" y2="36.983347464017314" stroke="darkred"></line1>
+			<g transform="translate(19.8,19.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="17.183347464017316"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="19.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="19.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m019.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 19 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(27.057500064000003,138.18)">
+			<circle r="5" fill="none" stroke="darkgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="42.3" height="42.3" fill="none" stroke="darkgreen"></rect>
+			<line1 id="diag" x1="42.3" x2="49.453829441457074" y2="7.153829441457081" stroke="darkgreen"></line1>
+			<line1 id="diag" y1="42.3" x2="7.153829441457081" y2="49.453829441457074" stroke="darkgreen"></line1>
+			<line id="diag" x1="42.3" y1="42.3" x2="49.453829441457074" y2="49.453829441457074" stroke="darkgreen"></line>
+			<line1 id="gor" x1="7.153829441457081" y1="49.453829441457074" x2="49.453829441457074" y2="49.453829441457074" stroke="darkgreen"></line1>
+			<line1 id="vert" x1="49.453829441457074" y1="7.153829441457081" x2="49.453829441457074" y2="49.453829441457074" stroke="darkgreen"></line1>
+			<g transform="translate(42.3,42.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkgreen)" width="10" height="7.153829441457081"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkgreen)" y="-10" width="42.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkgreen)" x="-10" y1="0" width="10" height="42.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m020.html">
+				<text y="-2" font-size="4" fill="white">
+					Потрійна туманність 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1626.149999952,135)">
+			<circle r="7" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="19.8" height="19.8" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="19.8" x2="28.19444915467244" y2="8.39444915467244" stroke="darkorange"></line1>
+			<line1 id="diag" y1="19.8" x2="8.39444915467244" y2="28.19444915467244" stroke="darkorange"></line1>
+			<line id="diag" x1="19.8" y1="19.8" x2="28.19444915467244" y2="28.19444915467244" stroke="darkorange"></line>
+			<line1 id="gor" x1="8.39444915467244" y1="28.19444915467244" x2="28.19444915467244" y2="28.19444915467244" stroke="darkorange"></line1>
+			<line1 id="vert" x1="28.19444915467244" y1="8.39444915467244" x2="28.19444915467244" y2="28.19444915467244" stroke="darkorange"></line1>
+			<g transform="translate(19.8,19.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="8.39444915467244"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="19.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="19.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m021.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 21 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1674.100000008,143.39999999999998)">
+			<circle r="6.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="36" height="36" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="36" x2="49.21034037197619" y2="13.210340371976184" stroke="darkred"></line1>
+			<line1 id="diag" y1="36" x2="13.210340371976184" y2="49.21034037197619" stroke="darkred"></line1>
+			<line id="diag" x1="36" y1="36" x2="49.21034037197619" y2="49.21034037197619" stroke="darkred"></line>
+			<line1 id="gor" x1="13.210340371976184" y1="49.21034037197619" x2="49.21034037197619" y2="49.21034037197619" stroke="darkred"></line1>
+			<line1 id="vert" x1="49.21034037197619" y1="13.210340371976184" x2="49.21034037197619" y2="49.21034037197619" stroke="darkred"></line1>
+			<g transform="translate(36,36)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="13.210340371976184"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="36" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="36"></rect>
+			<a xlink:href="http://messier.seds.org/m/m022.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 22 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1614.199999968,114.12)">
+			<circle r="6" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="40.5" height="40.5" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="40.5" x2="50.5163095871051" y2="10.016309587105097" stroke="darkorange"></line1>
+			<line1 id="diag" y1="40.5" x2="10.016309587105097" y2="50.5163095871051" stroke="darkorange"></line1>
+			<line id="diag" x1="40.5" y1="40.5" x2="50.5163095871051" y2="50.5163095871051" stroke="darkorange"></line>
+			<line1 id="gor" x1="10.016309587105097" y1="50.5163095871051" x2="50.5163095871051" y2="50.5163095871051" stroke="darkorange"></line1>
+			<line1 id="vert" x1="50.5163095871051" y1="10.016309587105097" x2="50.5163095871051" y2="50.5163095871051" stroke="darkorange"></line1>
+			<g transform="translate(40.5,40.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="10.016309587105097"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="40.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="40.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m023.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 23 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1644.2250000479999,110.88)">
+			<circle r="11.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="135" height="135" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="135" x2="148.21034037197617" y2="13.210340371976184" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="135" x2="13.210340371976184" y2="148.21034037197617" stroke="darkviolet"></line1>
+			<line id="diag" x1="135" y1="135" x2="148.21034037197617" y2="148.21034037197617" stroke="darkviolet"></line>
+			<line1 id="gor" x1="13.210340371976184" y1="148.21034037197617" x2="148.21034037197617" y2="148.21034037197617" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="148.21034037197617" y1="13.210340371976184" x2="148.21034037197617" y2="148.21034037197617" stroke="darkviolet"></line1>
+			<g transform="translate(135,135)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="13.210340371976184"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="135" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="135"></rect>
+			<a xlink:href="http://messier.seds.org/m/m024.html">
+				<text y="-2" font-size="4" fill="white">
+					Зоряна хмара Стрільця 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1666.6499999520001,115.5)">
+			<circle r="4.9" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="60.300000000000004" height="60.300000000000004" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="60.300000000000004" x2="67.07258872223979" y2="6.772588722239782" stroke="#N/A"></line1>
+			<line1 id="diag" y1="60.300000000000004" x2="6.772588722239782" y2="67.07258872223979" stroke="#N/A"></line1>
+			<line id="diag" x1="60.300000000000004" y1="60.300000000000004" x2="67.07258872223979" y2="67.07258872223979" stroke="#N/A"></line>
+			<line1 id="gor" x1="6.772588722239782" y1="67.07258872223979" x2="67.07258872223979" y2="67.07258872223979" stroke="#N/A"></line1>
+			<line1 id="vert" x1="67.07258872223979" y1="6.772588722239782" x2="67.07258872223979" y2="67.07258872223979" stroke="#N/A"></line1>
+			<g transform="translate(60.300000000000004,60.300000000000004)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="6.772588722239782"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="60.300000000000004" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="60.300000000000004"></rect>
+			<a xlink:href="http://messier.seds.org/m/m025.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 25 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1687.5499998960001,56.400000000000006)">
+			<circle r="9.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="22.5" height="22.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="22.5" x2="32.9377516497364" y2="10.437751649736402" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="22.5" x2="10.437751649736402" y2="32.9377516497364" stroke="darkviolet"></line1>
+			<line id="diag" x1="22.5" y1="22.5" x2="32.9377516497364" y2="32.9377516497364" stroke="darkviolet"></line>
+			<line1 id="gor" x1="10.437751649736402" y1="32.9377516497364" x2="32.9377516497364" y2="32.9377516497364" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="32.9377516497364" y1="10.437751649736402" x2="32.9377516497364" y2="32.9377516497364" stroke="darkviolet"></line1>
+			<g transform="translate(22.5,22.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="10.437751649736402"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="22.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="22.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m026.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 26 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1798.6499999280002,-136.32)">
+			<circle r="7.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="9" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="16.592574205256838" y2="4.892574205256839" stroke="darkred"></line1>
+			<line1 id="diag" y1="9" x2="4.892574205256839" y2="13.892574205256839" stroke="darkred"></line1>
+			<line id="diag" x1="11.700000000000001" y1="9" x2="16.592574205256838" y2="13.892574205256839" stroke="darkred"></line>
+			<line1 id="gor" x1="4.892574205256839" y1="13.892574205256839" x2="16.592574205256838" y2="13.892574205256839" stroke="darkred"></line1>
+			<line1 id="vert" x1="16.592574205256838" y1="4.892574205256839" x2="16.592574205256838" y2="13.892574205256839" stroke="darkred"></line1>
+			<g transform="translate(11.700000000000001,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="4.892574205256839"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m027.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Гантель 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1656.12499992,149.22)">
+			<circle r="8.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="16.2" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="16.2" x2="31.761487031584657" y2="15.561487031584658" stroke="darkred"></line1>
+			<line1 id="diag" y1="16.2" x2="15.561487031584658" y2="31.761487031584657" stroke="darkred"></line1>
+			<line id="diag" x1="16.2" y1="16.2" x2="31.761487031584657" y2="31.761487031584657" stroke="darkred"></line>
+			<line1 id="gor" x1="15.561487031584658" y1="31.761487031584657" x2="31.761487031584657" y2="31.761487031584657" stroke="darkred"></line1>
+			<line1 id="vert" x1="31.761487031584657" y1="15.561487031584658" x2="31.761487031584657" y2="31.761487031584657" stroke="darkred"></line1>
+			<g transform="translate(16.2,16.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="15.561487031584658"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="16.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m028.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 28 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1834.724999952,-231.18)">
+			<circle r="9" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="22.696324104088035" y2="11.896324104088038" stroke="darkred"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="11.896324104088038" y2="22.696324104088035" stroke="darkred"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="22.696324104088035" y2="22.696324104088035" stroke="darkred"></line>
+			<line1 id="gor" x1="11.896324104088038" y1="22.696324104088035" x2="22.696324104088035" y2="22.696324104088035" stroke="darkred"></line1>
+			<line1 id="vert" x1="22.696324104088035" y1="11.896324104088038" x2="22.696324104088035" y2="22.696324104088035" stroke="darkred"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="11.896324104088038"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m029.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 29 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1950.100000056,139.07999999999998)">
+			<circle r="8.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="16.2" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="16.2" x2="33.0755032994728" y2="16.875503299472804" stroke="darkred"></line1>
+			<line1 id="diag" y1="16.2" x2="16.875503299472804" y2="33.0755032994728" stroke="darkred"></line1>
+			<line id="diag" x1="16.2" y1="16.2" x2="33.0755032994728" y2="33.0755032994728" stroke="darkred"></line>
+			<line1 id="gor" x1="16.875503299472804" y1="33.0755032994728" x2="33.0755032994728" y2="33.0755032994728" stroke="darkred"></line1>
+			<line1 id="vert" x1="33.0755032994728" y1="16.875503299472804" x2="33.0755032994728" y2="33.0755032994728" stroke="darkred"></line1>
+			<g transform="translate(16.2,16.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="16.875503299472804"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="16.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m030.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 30 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(63.200000088,-247.62)">
+			<circle r="4.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="267.3" height="94.5" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="267.3" x2="302.0848505573856" y2="34.784850557385624" stroke="darkred"></line1>
+			<line1 id="diag" y1="94.5" x2="34.784850557385624" y2="129.28485055738562" stroke="darkred"></line1>
+			<line id="diag" x1="267.3" y1="94.5" x2="302.0848505573856" y2="129.28485055738562" stroke="darkred"></line>
+			<line1 id="gor" x1="34.784850557385624" y1="129.28485055738562" x2="302.0848505573856" y2="129.28485055738562" stroke="darkred"></line1>
+			<line1 id="vert" x1="302.0848505573856" y1="34.784850557385624" x2="302.0848505573856" y2="129.28485055738562" stroke="darkred"></line1>
+			<g transform="translate(267.3,94.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="34.784850557385624"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="267.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="94.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m031.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Андромеди 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(63.17500003200001,-245.21999999999997)">
+			<circle r="10" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="9" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="46.48485055738563" y2="34.784850557385624" stroke="darkred"></line1>
+			<line1 id="diag" y1="9" x2="34.784850557385624" y2="43.784850557385624" stroke="darkred"></line1>
+			<line id="diag" x1="11.700000000000001" y1="9" x2="46.48485055738563" y2="43.784850557385624" stroke="darkred"></line>
+			<line1 id="gor" x1="34.784850557385624" y1="43.784850557385624" x2="46.48485055738563" y2="43.784850557385624" stroke="darkred"></line1>
+			<line1 id="vert" x1="46.48485055738563" y1="34.784850557385624" x2="46.48485055738563" y2="43.784850557385624" stroke="darkred"></line1>
+			<g transform="translate(11.700000000000001,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="34.784850557385624"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m032.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 32 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(154.724999904,-183.89999999999998)">
+			<circle r="7" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="109.8" height="67.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="109.8" x2="144.76265760766896" y2="34.962657607668966" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="67.5" x2="34.962657607668966" y2="102.46265760766897" stroke="darkviolet"></line1>
+			<line id="diag" x1="109.8" y1="67.5" x2="144.76265760766896" y2="102.46265760766897" stroke="darkviolet"></line>
+			<line1 id="gor" x1="34.962657607668966" y1="102.46265760766897" x2="144.76265760766896" y2="102.46265760766897" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="144.76265760766896" y1="34.962657607668966" x2="144.76265760766896" y2="102.46265760766897" stroke="darkviolet"></line1>
+			<g transform="translate(109.8,67.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="34.962657607668966"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="109.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="67.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m033.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Трикутника 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(243,-256.68)">
+			<circle r="6" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="52.199999999999996" height="52.199999999999996" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="52.199999999999996" x2="57.54588894648485" y2="5.345888946484852" stroke="darkred"></line1>
+			<line1 id="diag" y1="52.199999999999996" x2="5.345888946484852" y2="57.54588894648485" stroke="darkred"></line1>
+			<line id="diag" x1="52.199999999999996" y1="52.199999999999996" x2="57.54588894648485" y2="57.54588894648485" stroke="darkred"></line>
+			<line1 id="gor" x1="5.345888946484852" y1="57.54588894648485" x2="57.54588894648485" y2="57.54588894648485" stroke="darkred"></line1>
+			<line1 id="vert" x1="57.54588894648485" y1="5.345888946484852" x2="57.54588894648485" y2="57.54588894648485" stroke="darkred"></line1>
+			<g transform="translate(52.199999999999996,52.199999999999996)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="5.345888946484852"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="52.199999999999996" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="52.199999999999996"></rect>
+			<a xlink:href="http://messier.seds.org/m/m034.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 34 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(553.525000056,-146.10000000000002)">
+			<circle r="5.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="42.3" height="42.3" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="42.3" x2="50.418477668724634" y2="8.118477668724633" stroke="#N/A"></line1>
+			<line1 id="diag" y1="42.3" x2="8.118477668724633" y2="50.418477668724634" stroke="#N/A"></line1>
+			<line id="diag" x1="42.3" y1="42.3" x2="50.418477668724634" y2="50.418477668724634" stroke="#N/A"></line>
+			<line1 id="gor" x1="8.118477668724633" y1="50.418477668724634" x2="50.418477668724634" y2="50.418477668724634" stroke="#N/A"></line1>
+			<line1 id="vert" x1="50.418477668724634" y1="8.118477668724633" x2="50.418477668724634" y2="50.418477668724634" stroke="#N/A"></line1>
+			<g transform="translate(42.3,42.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="8.118477668724633"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="42.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="42.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m035.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 35 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(504.05000004,-204.78000000000003)">
+			<circle r="6.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="18" height="18" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="18" x2="27.643947894841048" y2="9.643947894841048" stroke="#N/A"></line1>
+			<line1 id="diag" y1="18" x2="9.643947894841048" y2="27.643947894841048" stroke="#N/A"></line1>
+			<line id="diag" x1="18" y1="18" x2="27.643947894841048" y2="27.643947894841048" stroke="#N/A"></line>
+			<line1 id="gor" x1="9.643947894841048" y1="27.643947894841048" x2="27.643947894841048" y2="27.643947894841048" stroke="#N/A"></line1>
+			<line1 id="vert" x1="27.643947894841048" y1="9.643947894841048" x2="27.643947894841048" y2="27.643947894841048" stroke="#N/A"></line1>
+			<g transform="translate(18,18)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="9.643947894841048"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="18" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="18"></rect>
+			<a xlink:href="http://messier.seds.org/m/m036.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 36 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(528.0999999119999,-195.29999999999998)">
+			<circle r="6" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="36" height="36" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="36" x2="46.1042252139802" y2="10.104225213980197" stroke="darkred"></line1>
+			<line1 id="diag" y1="36" x2="10.104225213980197" y2="46.1042252139802" stroke="darkred"></line1>
+			<line id="diag" x1="36" y1="36" x2="46.1042252139802" y2="46.1042252139802" stroke="darkred"></line>
+			<line1 id="gor" x1="10.104225213980197" y1="46.1042252139802" x2="46.1042252139802" y2="46.1042252139802" stroke="darkred"></line1>
+			<line1 id="vert" x1="46.1042252139802" y1="10.104225213980197" x2="46.1042252139802" y2="46.1042252139802" stroke="darkred"></line1>
+			<g transform="translate(36,36)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="10.104225213980197"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="36" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="36"></rect>
+			<a xlink:href="http://messier.seds.org/m/m037.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 37 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(492.175000008,-215.10000000000002)">
+			<circle r="7" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="31.499999999999996" height="31.499999999999996" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="31.499999999999996" x2="41.24033810115729" y2="9.740338101157292" stroke="darkred"></line1>
+			<line1 id="diag" y1="31.499999999999996" x2="9.740338101157292" y2="41.24033810115729" stroke="darkred"></line1>
+			<line id="diag" x1="31.499999999999996" y1="31.499999999999996" x2="41.24033810115729" y2="41.24033810115729" stroke="darkred"></line>
+			<line1 id="gor" x1="9.740338101157292" y1="41.24033810115729" x2="41.24033810115729" y2="41.24033810115729" stroke="darkred"></line1>
+			<line1 id="vert" x1="41.24033810115729" y1="9.740338101157292" x2="41.24033810115729" y2="41.24033810115729" stroke="darkred"></line1>
+			<g transform="translate(31.499999999999996,31.499999999999996)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="9.740338101157292"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="31.499999999999996" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="31.499999999999996"></rect>
+			<a xlink:href="http://messier.seds.org/m/m038.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 38 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1936.700000064,-290.58)">
+			<circle r="5.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="47.7" height="47.7" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="47.7" x2="46.88410878269626" y2="-0.8158912173037445" stroke="darkred"></line1>
+			<line1 id="diag" y1="47.7" x2="-0.8158912173037445" y2="46.88410878269626" stroke="darkred"></line1>
+			<line id="diag" x1="47.7" y1="47.7" x2="46.88410878269626" y2="46.88410878269626" stroke="darkred"></line>
+			<line1 id="gor" x1="-0.8158912173037445" y1="46.88410878269626" x2="46.88410878269626" y2="46.88410878269626" stroke="darkred"></line1>
+			<line1 id="vert" x1="46.88410878269626" y1="-0.8158912173037445" x2="46.88410878269626" y2="46.88410878269626" stroke="darkred"></line1>
+			<g transform="translate(47.7,47.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="-0.8158912173037445"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="47.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="47.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m039.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 39 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1113.0499999439999,-348.48)">
+			<circle r="9" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="0.9" height="0.9" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="0.9" x2="2.2066217869449374" y2="1.3066217869449375" stroke="darkred"></line1>
+			<line1 id="diag" y1="0.9" x2="1.3066217869449375" y2="2.2066217869449374" stroke="darkred"></line1>
+			<line id="diag" x1="0.9" y1="0.9" x2="2.2066217869449374" y2="2.2066217869449374" stroke="darkred"></line>
+			<line1 id="gor" x1="1.3066217869449375" y1="2.2066217869449374" x2="2.2066217869449374" y2="2.2066217869449374" stroke="darkred"></line1>
+			<line1 id="vert" x1="2.2066217869449374" y1="1.3066217869449375" x2="2.2066217869449374" y2="2.2066217869449374" stroke="darkred"></line1>
+			<g transform="translate(0.9,0.9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="1.3066217869449375"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="0.9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="0.9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m040.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 40 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(608.999999904,124.5)">
+			<circle r="5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="56.7" height="56.7" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="56.7" x2="64.2018749494156" y2="7.501874949415599" stroke="darkred"></line1>
+			<line1 id="diag" y1="56.7" x2="7.501874949415599" y2="64.2018749494156" stroke="darkred"></line1>
+			<line id="diag" x1="56.7" y1="56.7" x2="64.2018749494156" y2="64.2018749494156" stroke="darkred"></line>
+			<line1 id="gor" x1="7.501874949415599" y1="64.2018749494156" x2="64.2018749494156" y2="64.2018749494156" stroke="darkred"></line1>
+			<line1 id="vert" x1="64.2018749494156" y1="7.501874949415599" x2="64.2018749494156" y2="64.2018749494156" stroke="darkred"></line1>
+			<g transform="translate(56.7,56.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="7.501874949415599"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="56.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="56.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m041.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Малий Вулик 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(502.600000032,32.28)">
+			<circle r="5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="127.8" height="90" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="127.8" x2="133.68001451698294" y2="5.880014516982943" stroke="#N/A"></line1>
+			<line1 id="diag" y1="90" x2="5.880014516982943" y2="95.88001451698294" stroke="#N/A"></line1>
+			<line id="diag" x1="127.8" y1="90" x2="133.68001451698294" y2="95.88001451698294" stroke="#N/A"></line>
+			<line1 id="gor" x1="5.880014516982943" y1="95.88001451698294" x2="133.68001451698294" y2="95.88001451698294" stroke="#N/A"></line1>
+			<line1 id="vert" x1="133.68001451698294" y1="5.880014516982943" x2="133.68001451698294" y2="95.88001451698294" stroke="#N/A"></line1>
+			<g transform="translate(127.8,90)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="5.880014516982943"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="127.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="90"></rect>
+			<a xlink:href="http://messier.seds.org/m/m042.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Оріона 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(502.625000088,31.619999999999997)">
+			<circle r="7" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="29.700000000000003" height="22.5" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="29.700000000000003" x2="35.58001451698294" y2="5.880014516982943" stroke="darkred"></line1>
+			<line1 id="diag" y1="22.5" x2="5.880014516982943" y2="28.380014516982943" stroke="darkred"></line1>
+			<line id="diag" x1="29.700000000000003" y1="22.5" x2="35.58001451698294" y2="28.380014516982943" stroke="darkred"></line>
+			<line1 id="gor" x1="5.880014516982943" y1="28.380014516982943" x2="35.58001451698294" y2="28.380014516982943" stroke="darkred"></line1>
+			<line1 id="vert" x1="35.58001451698294" y1="5.880014516982943" x2="35.58001451698294" y2="28.380014516982943" stroke="darkred"></line1>
+			<g transform="translate(29.700000000000003,22.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="5.880014516982943"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="29.700000000000003" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="22.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m043.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 43 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(780.0999999840001,-118.08)">
+			<circle r="4" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="142.20000000000002" height="142.20000000000002" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="142.20000000000002" x2="143.42741127776023" y2="1.2274112777602189" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="142.20000000000002" x2="1.2274112777602189" y2="143.42741127776023" stroke="yellowgreen"></line1>
+			<line id="diag" x1="142.20000000000002" y1="142.20000000000002" x2="143.42741127776023" y2="143.42741127776023" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="1.2274112777602189" y1="143.42741127776023" x2="143.42741127776023" y2="143.42741127776023" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="143.42741127776023" y1="1.2274112777602189" x2="143.42741127776023" y2="143.42741127776023" stroke="yellowgreen"></line1>
+			<g transform="translate(142.20000000000002,142.20000000000002)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="1.2274112777602189"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="142.20000000000002" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="142.20000000000002"></rect>
+			<a xlink:href="http://messier.seds.org/m/m044.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Вулик 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(340.500000024,-144.72)">
+			<circle r="1.4" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="164.70000000000002" height="164.70000000000002" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="164.70000000000002" x2="165.0348370725034" y2="0.33483707250338" stroke="darkred"></line1>
+			<line1 id="diag" y1="164.70000000000002" x2="0.33483707250338" y2="165.0348370725034" stroke="darkred"></line1>
+			<line id="diag" x1="164.70000000000002" y1="164.70000000000002" x2="165.0348370725034" y2="165.0348370725034" stroke="darkred"></line>
+			<line1 id="gor" x1="0.33483707250338" y1="165.0348370725034" x2="165.0348370725034" y2="165.0348370725034" stroke="darkred"></line1>
+			<line1 id="vert" x1="165.0348370725034" y1="0.33483707250338" x2="165.0348370725034" y2="165.0348370725034" stroke="darkred"></line1>
+			<g transform="translate(164.70000000000002,164.70000000000002)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="0.33483707250338"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="164.70000000000002" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="164.70000000000002"></rect>
+			<a xlink:href="http://messier.seds.org/m/m045.html">
+				<text y="-2" font-size="4" fill="white">
+					Плеяди 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(691.7000000400001,88.92)">
+			<circle r="6.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="40.5" height="40.5" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="40.5" x2="51.24559581428092" y2="10.745595814280914" stroke="darkorange"></line1>
+			<line1 id="diag" y1="40.5" x2="10.745595814280914" y2="51.24559581428092" stroke="darkorange"></line1>
+			<line id="diag" x1="40.5" y1="40.5" x2="51.24559581428092" y2="51.24559581428092" stroke="darkorange"></line>
+			<line1 id="gor" x1="10.745595814280914" y1="51.24559581428092" x2="51.24559581428092" y2="51.24559581428092" stroke="darkorange"></line1>
+			<line1 id="vert" x1="51.24559581428092" y1="10.745595814280914" x2="51.24559581428092" y2="51.24559581428092" stroke="darkorange"></line1>
+			<g transform="translate(40.5,40.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="10.745595814280914"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="40.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="40.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m046.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 46 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(684.149999976,87)">
+			<circle r="4.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="45" height="45" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="45" x2="50.88001451698294" y2="5.880014516982943" stroke="darkorange"></line1>
+			<line1 id="diag" y1="45" x2="5.880014516982943" y2="50.88001451698294" stroke="darkorange"></line1>
+			<line id="diag" x1="45" y1="45" x2="50.88001451698294" y2="50.88001451698294" stroke="darkorange"></line>
+			<line1 id="gor" x1="5.880014516982943" y1="50.88001451698294" x2="50.88001451698294" y2="50.88001451698294" stroke="darkorange"></line1>
+			<line1 id="vert" x1="50.88001451698294" y1="5.880014516982943" x2="50.88001451698294" y2="50.88001451698294" stroke="darkorange"></line1>
+			<g transform="translate(45,45)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="5.880014516982943"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="45" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="45"></rect>
+			<a xlink:href="http://messier.seds.org/m/m047.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 47 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(739.674999936,34.5)">
+			<circle r="5.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="81" height="81" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="81" x2="86.62186043243265" y2="5.6218604324326575" stroke="darkorange"></line1>
+			<line1 id="diag" y1="81" x2="5.6218604324326575" y2="86.62186043243265" stroke="darkorange"></line1>
+			<line id="diag" x1="81" y1="81" x2="86.62186043243265" y2="86.62186043243265" stroke="darkorange"></line>
+			<line1 id="gor" x1="5.6218604324326575" y1="86.62186043243265" x2="86.62186043243265" y2="86.62186043243265" stroke="darkorange"></line1>
+			<line1 id="vert" x1="86.62186043243265" y1="5.6218604324326575" x2="86.62186043243265" y2="86.62186043243265" stroke="darkorange"></line1>
+			<g transform="translate(81,81)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="5.6218604324326575"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="81" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="81"></rect>
+			<a xlink:href="http://messier.seds.org/m/m048.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 48 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1123.7000000399998,-48)">
+			<circle r="10" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="10.799999999999999" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="13.5" x2="60.698302308371055" y2="47.198302308371055" stroke="darkorange"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="47.198302308371055" y2="57.99830230837105" stroke="darkorange"></line1>
+			<line id="diag" x1="13.5" y1="10.799999999999999" x2="60.698302308371055" y2="57.99830230837105" stroke="darkorange"></line>
+			<line1 id="gor" x1="47.198302308371055" y1="57.99830230837105" x2="60.698302308371055" y2="57.99830230837105" stroke="darkorange"></line1>
+			<line1 id="vert" x1="60.698302308371055" y1="47.198302308371055" x2="60.698302308371055" y2="57.99830230837105" stroke="darkorange"></line1>
+			<g transform="translate(13.5,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="47.198302308371055"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m049.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 49 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(633.199999896,-50.28)">
+			<circle r="7" fill="none" stroke="darkgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="24.3" height="24.3" fill="none" stroke="darkgreen"></rect>
+			<line1 id="diag" x1="24.3" x2="32.69444915467244" y2="8.39444915467244" stroke="darkgreen"></line1>
+			<line1 id="diag" y1="24.3" x2="8.39444915467244" y2="32.69444915467244" stroke="darkgreen"></line1>
+			<line id="diag" x1="24.3" y1="24.3" x2="32.69444915467244" y2="32.69444915467244" stroke="darkgreen"></line>
+			<line1 id="gor" x1="8.39444915467244" y1="32.69444915467244" x2="32.69444915467244" y2="32.69444915467244" stroke="darkgreen"></line1>
+			<line1 id="vert" x1="32.69444915467244" y1="8.39444915467244" x2="32.69444915467244" y2="32.69444915467244" stroke="darkgreen"></line1>
+			<g transform="translate(24.3,24.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkgreen)" width="10" height="8.39444915467244"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkgreen)" y="-10" width="24.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkgreen)" x="-10" y1="0" width="10" height="24.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m050.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 50 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1213.724999952,-283.20000000000005)">
+			<circle r="8" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="10.799999999999999" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="16.2" x2="62.27469276650544" y2="46.07469276650544" stroke="#N/A"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="46.07469276650544" y2="56.87469276650544" stroke="#N/A"></line1>
+			<line id="diag" x1="16.2" y1="10.799999999999999" x2="62.27469276650544" y2="56.87469276650544" stroke="#N/A"></line>
+			<line1 id="gor" x1="46.07469276650544" y1="56.87469276650544" x2="62.27469276650544" y2="56.87469276650544" stroke="#N/A"></line1>
+			<line1 id="vert" x1="62.27469276650544" y1="46.07469276650544" x2="62.27469276650544" y2="56.87469276650544" stroke="#N/A"></line1>
+			<g transform="translate(16.2,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="46.07469276650544"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m051.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Вир 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(2106.049999896,-369.48)">
+			<circle r="8" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="19.8" height="19.8" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="19.8" x2="31.583640596221255" y2="11.783640596221254" stroke="#N/A"></line1>
+			<line1 id="diag" y1="19.8" x2="11.783640596221254" y2="31.583640596221255" stroke="#N/A"></line1>
+			<line id="diag" x1="19.8" y1="19.8" x2="31.583640596221255" y2="31.583640596221255" stroke="#N/A"></line>
+			<line1 id="gor" x1="11.783640596221254" y1="31.583640596221255" x2="31.583640596221255" y2="31.583640596221255" stroke="#N/A"></line1>
+			<line1 id="vert" x1="31.583640596221255" y1="11.783640596221254" x2="31.583640596221255" y2="31.583640596221255" stroke="#N/A"></line1>
+			<g transform="translate(19.8,19.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="11.783640596221254"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="19.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="19.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m052.html">
+				<text y="-2" font-size="4" fill="white">
+					Скупчення Скорпіон 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1188.2250000719998,-109.02000000000001)">
+			<circle r="8.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="18" height="18" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="18" x2="38.1014067629406" y2="20.1014067629406" stroke="#N/A"></line1>
+			<line1 id="diag" y1="18" x2="20.1014067629406" y2="38.1014067629406" stroke="#N/A"></line1>
+			<line id="diag" x1="18" y1="18" x2="38.1014067629406" y2="38.1014067629406" stroke="#N/A"></line>
+			<line1 id="gor" x1="20.1014067629406" y1="38.1014067629406" x2="38.1014067629406" y2="38.1014067629406" stroke="#N/A"></line1>
+			<line1 id="vert" x1="38.1014067629406" y1="20.1014067629406" x2="38.1014067629406" y2="38.1014067629406" stroke="#N/A"></line1>
+			<g transform="translate(18,18)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="20.1014067629406"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="18" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="18"></rect>
+			<a xlink:href="http://messier.seds.org/m/m053.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 53 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1702.52499996,182.88)">
+			<circle r="8.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="13.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="13.5" x2="35.17536243118639" y2="21.675362431186393" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="13.5" x2="21.675362431186393" y2="35.17536243118639" stroke="darkviolet"></line1>
+			<line id="diag" x1="13.5" y1="13.5" x2="35.17536243118639" y2="35.17536243118639" stroke="darkviolet"></line>
+			<line1 id="gor" x1="21.675362431186393" y1="35.17536243118639" x2="35.17536243118639" y2="35.17536243118639" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="35.17536243118639" y1="21.675362431186393" x2="35.17536243118639" y2="35.17536243118639" stroke="darkviolet"></line1>
+			<g transform="translate(13.5,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="21.675362431186393"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m054.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 54 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1769.9999999039999,185.82)">
+			<circle r="7" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="28.8" height="28.8" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="28.8" x2="44.132853376224865" y2="15.332853376224865" stroke="darkorange"></line1>
+			<line1 id="diag" y1="28.8" x2="15.332853376224865" y2="44.132853376224865" stroke="darkorange"></line1>
+			<line id="diag" x1="28.8" y1="28.8" x2="44.132853376224865" y2="44.132853376224865" stroke="darkorange"></line>
+			<line1 id="gor" x1="15.332853376224865" y1="44.132853376224865" x2="44.132853376224865" y2="44.132853376224865" stroke="darkorange"></line1>
+			<line1 id="vert" x1="44.132853376224865" y1="15.332853376224865" x2="44.132853376224865" y2="44.132853376224865" stroke="darkorange"></line1>
+			<g transform="translate(28.8,28.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="15.332853376224865"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="28.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="28.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m055.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 55 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1734.1499999520001,-181.07999999999998)">
+			<circle r="9.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="28.662943611198905" y2="17.862943611198908" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="17.862943611198908" y2="28.662943611198905" stroke="darkviolet"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="28.662943611198905" y2="28.662943611198905" stroke="darkviolet"></line>
+			<line1 id="gor" x1="17.862943611198908" y1="28.662943611198905" x2="28.662943611198905" y2="28.662943611198905" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="28.662943611198905" y1="17.862943611198908" x2="28.662943611198905" y2="28.662943611198905" stroke="darkviolet"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="17.862943611198908"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m056.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 56 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1699.65,-198.18)">
+			<circle r="9.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="1.8" height="1.8" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="1.8" x2="11.443947894841049" y2="9.643947894841048" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="1.8" x2="9.643947894841048" y2="11.443947894841049" stroke="darkviolet"></line1>
+			<line id="diag" x1="1.8" y1="1.8" x2="11.443947894841049" y2="11.443947894841049" stroke="darkviolet"></line>
+			<line1 id="gor" x1="9.643947894841048" y1="11.443947894841049" x2="11.443947894841049" y2="11.443947894841049" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="11.443947894841049" y1="9.643947894841048" x2="11.443947894841049" y2="11.443947894841049" stroke="darkviolet"></line1>
+			<g transform="translate(1.8,1.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="9.643947894841048"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="1.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="1.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m057.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Кільце 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1135.67500008,-70.92)">
+			<circle r="11" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="6.300000000000001" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="7.2" x2="55.208399364816955" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="48.00839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line id="diag" x1="7.2" y1="6.300000000000001" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="54.30839936481695" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="55.208399364816955" y1="48.00839936481695" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<g transform="translate(7.2,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m058.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 58 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1143.000000072,-69.9)">
+			<circle r="11.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="4.5" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="7.2" x2="55.208399364816955" y2="48.00839936481695" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="4.5" x2="48.00839936481695" y2="52.50839936481695" stroke="yellowgreen"></line1>
+			<line id="diag" x1="7.2" y1="4.5" x2="55.208399364816955" y2="52.50839936481695" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="52.50839936481695" x2="55.208399364816955" y2="52.50839936481695" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="55.208399364816955" y1="48.00839936481695" x2="55.208399364816955" y2="52.50839936481695" stroke="yellowgreen"></line1>
+			<g transform="translate(7.2,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m059.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 59 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1144.674999936,-69.30000000000001)">
+			<circle r="10.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="9" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="darkred"></line1>
+			<line1 id="diag" y1="9" x2="48.00839936481695" y2="57.00839936481695" stroke="darkred"></line1>
+			<line id="diag" x1="10.799999999999999" y1="9" x2="58.80839936481695" y2="57.00839936481695" stroke="darkred"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="57.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="darkred"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="darkred"></line1>
+			<g transform="translate(10.799999999999999,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m060.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 60 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1111.725,-26.82)">
+			<circle r="10.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="7.2" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="9" x2="57.00839936481695" y2="48.00839936481695" stroke="darkorange"></line1>
+			<line1 id="diag" y1="7.2" x2="48.00839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<line id="diag" x1="9" y1="7.2" x2="57.00839936481695" y2="55.208399364816955" stroke="darkorange"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="55.208399364816955" x2="57.00839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<line1 id="vert" x1="57.00839936481695" y1="48.00839936481695" x2="57.00839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<g transform="translate(9,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m061.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 61 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1531.5499999439999,180.72)">
+			<circle r="8" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="20.7" height="20.7" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="20.7" x2="37.06416981343327" y2="16.364169813433264" stroke="darkorange"></line1>
+			<line1 id="diag" y1="20.7" x2="16.364169813433264" y2="37.06416981343327" stroke="darkorange"></line1>
+			<line id="diag" x1="20.7" y1="20.7" x2="37.06416981343327" y2="37.06416981343327" stroke="darkorange"></line>
+			<line1 id="gor" x1="16.364169813433264" y1="37.06416981343327" x2="37.06416981343327" y2="37.06416981343327" stroke="darkorange"></line1>
+			<line1 id="vert" x1="37.06416981343327" y1="16.364169813433264" x2="37.06416981343327" y2="37.06416981343327" stroke="darkorange"></line1>
+			<g transform="translate(20.7,20.7)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="16.364169813433264"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="20.7" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="20.7"></rect>
+			<a xlink:href="http://messier.seds.org/m/m062.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 62 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1192.699999944,-252.18)">
+			<circle r="8.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="15.3" height="9" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="15.3" x2="61.37469276650545" y2="46.07469276650544" stroke="darkorange"></line1>
+			<line1 id="diag" y1="9" x2="46.07469276650544" y2="55.07469276650544" stroke="darkorange"></line1>
+			<line id="diag" x1="15.3" y1="9" x2="61.37469276650545" y2="55.07469276650544" stroke="darkorange"></line>
+			<line1 id="gor" x1="46.07469276650544" y1="55.07469276650544" x2="61.37469276650545" y2="55.07469276650544" stroke="darkorange"></line1>
+			<line1 id="vert" x1="61.37469276650545" y1="46.07469276650544" x2="61.37469276650545" y2="55.07469276650544" stroke="darkorange"></line1>
+			<g transform="translate(15.3,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="46.07469276650544"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="15.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m063.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Соняшник 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1164.174999984,-130.07999999999998)">
+			<circle r="9" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="7.2" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="13.5" x2="55.07064771508055" y2="41.57064771508055" stroke="darkorange"></line1>
+			<line1 id="diag" y1="7.2" x2="41.57064771508055" y2="48.77064771508055" stroke="darkorange"></line1>
+			<line id="diag" x1="13.5" y1="7.2" x2="55.07064771508055" y2="48.77064771508055" stroke="darkorange"></line>
+			<line1 id="gor" x1="41.57064771508055" y1="48.77064771508055" x2="55.07064771508055" y2="48.77064771508055" stroke="darkorange"></line1>
+			<line1 id="vert" x1="55.07064771508055" y1="41.57064771508055" x2="55.07064771508055" y2="48.77064771508055" stroke="darkorange"></line1>
+			<g transform="translate(13.5,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="41.57064771508055"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m064.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Спляча Красуня 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1017.225,-78.48)">
+			<circle r="10.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="2.6999999999999997" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="57.5524133618862" y2="45.8524133618862" stroke="darkorange"></line1>
+			<line1 id="diag" y1="2.6999999999999997" x2="45.8524133618862" y2="48.5524133618862" stroke="darkorange"></line1>
+			<line id="diag" x1="11.700000000000001" y1="2.6999999999999997" x2="57.5524133618862" y2="48.5524133618862" stroke="darkorange"></line>
+			<line1 id="gor" x1="45.8524133618862" y1="48.5524133618862" x2="57.5524133618862" y2="48.5524133618862" stroke="darkorange"></line1>
+			<line1 id="vert" x1="57.5524133618862" y1="45.8524133618862" x2="57.5524133618862" y2="48.5524133618862" stroke="darkorange"></line1>
+			<g transform="translate(11.700000000000001,2.6999999999999997)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="45.8524133618862"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="2.6999999999999997"></rect>
+			<a xlink:href="http://messier.seds.org/m/m065.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 65 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1020.050000064,-77.88)">
+			<circle r="10" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="4.5" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="57.5524133618862" y2="45.8524133618862" stroke="#N/A"></line1>
+			<line1 id="diag" y1="4.5" x2="45.8524133618862" y2="50.3524133618862" stroke="#N/A"></line1>
+			<line id="diag" x1="11.700000000000001" y1="4.5" x2="57.5524133618862" y2="50.3524133618862" stroke="#N/A"></line>
+			<line1 id="gor" x1="45.8524133618862" y1="50.3524133618862" x2="57.5524133618862" y2="50.3524133618862" stroke="#N/A"></line1>
+			<line1 id="vert" x1="57.5524133618862" y1="45.8524133618862" x2="57.5524133618862" y2="50.3524133618862" stroke="#N/A"></line1>
+			<g transform="translate(11.700000000000001,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="45.8524133618862"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m066.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 66 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(796.6000000079999,-70.92)">
+			<circle r="7.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="45" height="45" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="45" x2="52.24372086486532" y2="7.243720864865315" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="45" x2="7.243720864865315" y2="52.24372086486532" stroke="darkviolet"></line1>
+			<line id="diag" x1="45" y1="45" x2="52.24372086486532" y2="52.24372086486532" stroke="darkviolet"></line>
+			<line1 id="gor" x1="7.243720864865315" y1="52.24372086486532" x2="52.24372086486532" y2="52.24372086486532" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="52.24372086486532" y1="7.243720864865315" x2="52.24372086486532" y2="52.24372086486532" stroke="darkviolet"></line1>
+			<g transform="translate(45,45)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="7.243720864865315"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="45" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="45"></rect>
+			<a xlink:href="http://messier.seds.org/m/m067.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 67 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1138.6249999919999,160.5)">
+			<circle r="9" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="18" height="18" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="18" x2="35.86294361119891" y2="17.862943611198908" stroke="darkorange"></line1>
+			<line1 id="diag" y1="18" x2="17.862943611198908" y2="35.86294361119891" stroke="darkorange"></line1>
+			<line id="diag" x1="18" y1="18" x2="35.86294361119891" y2="35.86294361119891" stroke="darkorange"></line>
+			<line1 id="gor" x1="17.862943611198908" y1="35.86294361119891" x2="35.86294361119891" y2="35.86294361119891" stroke="darkorange"></line1>
+			<line1 id="vert" x1="35.86294361119891" y1="17.862943611198908" x2="35.86294361119891" y2="35.86294361119891" stroke="darkorange"></line1>
+			<g transform="translate(18,18)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="17.862943611198908"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="18" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="18"></rect>
+			<a xlink:href="http://messier.seds.org/m/m068.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 68 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1666.600000056,-194.10000000000002)">
+			<circle r="9" fill="none" stroke="darkgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="darkgreen"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="27.6755032994728" y2="16.875503299472804" stroke="darkgreen"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="16.875503299472804" y2="27.6755032994728" stroke="darkgreen"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="27.6755032994728" y2="27.6755032994728" stroke="darkgreen"></line>
+			<line1 id="gor" x1="16.875503299472804" y1="27.6755032994728" x2="27.6755032994728" y2="27.6755032994728" stroke="darkgreen"></line1>
+			<line1 id="vert" x1="27.6755032994728" y1="16.875503299472804" x2="27.6755032994728" y2="27.6755032994728" stroke="darkgreen"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkgreen)" width="10" height="16.875503299472804"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkgreen)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkgreen)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m069.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 69 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1684.5500000880002,193.68)">
+			<circle r="9" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="11.700000000000001" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="29.02881804070082" y2="17.328818040700817" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="11.700000000000001" x2="17.328818040700817" y2="29.02881804070082" stroke="yellowgreen"></line1>
+			<line id="diag" x1="11.700000000000001" y1="11.700000000000001" x2="29.02881804070082" y2="29.02881804070082" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="17.328818040700817" y1="29.02881804070082" x2="29.02881804070082" y2="29.02881804070082" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="29.02881804070082" y1="17.328818040700817" x2="29.02881804070082" y2="29.02881804070082" stroke="yellowgreen"></line1>
+			<g transform="translate(11.700000000000001,11.700000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="17.328818040700817"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="11.700000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m070.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 70 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1789.699999968,-112.68)">
+			<circle r="8.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="24.739626599152" y2="13.939626599152001" stroke="#N/A"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="13.939626599152001" y2="24.739626599152" stroke="#N/A"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="24.739626599152" y2="24.739626599152" stroke="#N/A"></line>
+			<line1 id="gor" x1="13.939626599152001" y1="24.739626599152" x2="24.739626599152" y2="24.739626599152" stroke="#N/A"></line1>
+			<line1 id="vert" x1="24.739626599152" y1="13.939626599152001" x2="24.739626599152" y2="24.739626599152" stroke="#N/A"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="13.939626599152001"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m071.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 71 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1879.625000088,75.17999999999999)">
+			<circle r="10" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="9" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="9" x2="28.88116765420849" y2="19.88116765420849" stroke="darkorange"></line1>
+			<line1 id="diag" y1="9" x2="19.88116765420849" y2="28.88116765420849" stroke="darkorange"></line1>
+			<line id="diag" x1="9" y1="9" x2="28.88116765420849" y2="28.88116765420849" stroke="darkorange"></line>
+			<line1 id="gor" x1="19.88116765420849" y1="28.88116765420849" x2="28.88116765420849" y2="28.88116765420849" stroke="darkorange"></line1>
+			<line1 id="vert" x1="28.88116765420849" y1="19.88116765420849" x2="28.88116765420849" y2="28.88116765420849" stroke="darkorange"></line1>
+			<g transform="translate(9,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="19.88116765420849"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m072.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 72 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1887.225000048,75.78)">
+			<circle r="9" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="4.5" height="4.5" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="4.5" x2="12.16516292749662" y2="7.66516292749662" stroke="darkorange"></line1>
+			<line1 id="diag" y1="4.5" x2="7.66516292749662" y2="12.16516292749662" stroke="darkorange"></line1>
+			<line id="diag" x1="4.5" y1="4.5" x2="12.16516292749662" y2="12.16516292749662" stroke="darkorange"></line>
+			<line1 id="gor" x1="7.66516292749662" y1="12.16516292749662" x2="12.16516292749662" y2="12.16516292749662" stroke="darkorange"></line1>
+			<line1 id="vert" x1="12.16516292749662" y1="7.66516292749662" x2="12.16516292749662" y2="12.16516292749662" stroke="darkorange"></line1>
+			<g transform="translate(4.5,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="7.66516292749662"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="4.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m073.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 73 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(144.175000032,-94.67999999999999)">
+			<circle r="10.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="15.3" height="13.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="15.3" x2="60.79396472712746" y2="45.493964727127455" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="13.5" x2="45.493964727127455" y2="58.993964727127455" stroke="darkviolet"></line1>
+			<line id="diag" x1="15.3" y1="13.5" x2="60.79396472712746" y2="58.993964727127455" stroke="darkviolet"></line>
+			<line1 id="gor" x1="45.493964727127455" y1="58.993964727127455" x2="60.79396472712746" y2="58.993964727127455" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="60.79396472712746" y1="45.493964727127455" x2="60.79396472712746" y2="58.993964727127455" stroke="darkviolet"></line1>
+			<g transform="translate(15.3,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="45.493964727127455"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="15.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m074.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 74 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1809.025000056,131.52)">
+			<circle r="9.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="9" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="9" x2="29.241772042185676" y2="20.241772042185676" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="9" x2="20.241772042185676" y2="29.241772042185676" stroke="yellowgreen"></line1>
+			<line id="diag" x1="9" y1="9" x2="29.241772042185676" y2="29.241772042185676" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="20.241772042185676" y1="29.241772042185676" x2="29.241772042185676" y2="29.241772042185676" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="29.241772042185676" y1="20.241772042185676" x2="29.241772042185676" y2="29.241772042185676" stroke="yellowgreen"></line1>
+			<g transform="translate(9,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="20.241772042185676"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m075.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 75 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(153.075000096,-309.42)">
+			<circle r="12" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="4.5" height="2.6999999999999997" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="4.5" x2="13.395101726488463" y2="8.895101726488463" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="2.6999999999999997" x2="8.895101726488463" y2="11.595101726488462" stroke="darkviolet"></line1>
+			<line id="diag" x1="4.5" y1="2.6999999999999997" x2="13.395101726488463" y2="11.595101726488462" stroke="darkviolet"></line>
+			<line1 id="gor" x1="8.895101726488463" y1="11.595101726488462" x2="13.395101726488463" y2="11.595101726488462" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="13.395101726488463" y1="8.895101726488463" x2="13.395101726488463" y2="11.595101726488462" stroke="darkviolet"></line1>
+			<g transform="translate(4.5,2.6999999999999997)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="8.895101726488463"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="4.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="2.6999999999999997"></rect>
+			<a xlink:href="http://messier.seds.org/m/m076.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Маленька Гантель 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(243.17499996,0.12)">
+			<circle r="10.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="9" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="9" x2="48.00839936481695" y2="57.00839936481695" stroke="yellowgreen"></line1>
+			<line id="diag" x1="10.799999999999999" y1="9" x2="58.80839936481695" y2="57.00839936481695" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="57.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="yellowgreen"></line1>
+			<g transform="translate(10.799999999999999,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m077.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 77 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(519.175000008,-0.30000000000000004)">
+			<circle r="8" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="9" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="17.580014516982942" y2="5.880014516982943" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="9" x2="5.880014516982943" y2="14.880014516982943" stroke="yellowgreen"></line1>
+			<line id="diag" x1="11.700000000000001" y1="9" x2="17.580014516982942" y2="14.880014516982943" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="5.880014516982943" y1="14.880014516982943" x2="17.580014516982942" y2="14.880014516982943" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="17.580014516982942" y1="5.880014516982943" x2="17.580014516982942" y2="14.880014516982943" stroke="yellowgreen"></line1>
+			<g transform="translate(11.700000000000001,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="5.880014516982943"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m078.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 78 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(486.049999896,147.12)">
+			<circle r="8.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="13.5" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="13.5" x2="32.25551781645574" y2="18.755517816455743" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="13.5" x2="18.755517816455743" y2="32.25551781645574" stroke="yellowgreen"></line1>
+			<line id="diag" x1="13.5" y1="13.5" x2="32.25551781645574" y2="32.25551781645574" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="18.755517816455743" y1="32.25551781645574" x2="32.25551781645574" y2="32.25551781645574" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="32.25551781645574" y1="18.755517816455743" x2="32.25551781645574" y2="32.25551781645574" stroke="yellowgreen"></line1>
+			<g transform="translate(13.5,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="18.755517816455743"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m079.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 79 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1465.499999952,137.88)">
+			<circle r="8.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="13.5" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="13.5" x2="30.683347464017316" y2="17.183347464017316" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="13.5" x2="17.183347464017316" y2="30.683347464017316" stroke="yellowgreen"></line1>
+			<line id="diag" x1="13.5" y1="13.5" x2="30.683347464017316" y2="30.683347464017316" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="17.183347464017316" y1="30.683347464017316" x2="30.683347464017316" y2="30.683347464017316" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="30.683347464017316" y1="17.183347464017316" x2="30.683347464017316" y2="30.683347464017316" stroke="yellowgreen"></line1>
+			<g transform="translate(13.5,13.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="17.183347464017316"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="13.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m080.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 80 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(892.624999968,-414.41999999999996)">
+			<circle r="8.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="31.499999999999996" height="15.3" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="31.499999999999996" x2="72.72260220712202" y2="41.22260220712203" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="15.3" x2="41.22260220712203" y2="56.522602207122034" stroke="darkviolet"></line1>
+			<line id="diag" x1="31.499999999999996" y1="15.3" x2="72.72260220712202" y2="56.522602207122034" stroke="darkviolet"></line>
+			<line1 id="gor" x1="41.22260220712203" y1="56.522602207122034" x2="72.72260220712202" y2="56.522602207122034" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="72.72260220712202" y1="41.22260220712203" x2="72.72260220712202" y2="56.522602207122034" stroke="darkviolet"></line1>
+			<g transform="translate(31.499999999999996,15.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="41.22260220712203"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="31.499999999999996" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="15.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m081.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Боде 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(892.7249999759999,-418.08000000000004)">
+			<circle r="9.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="6.300000000000001" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="13.5" x2="54.72260220712203" y2="41.22260220712203" stroke="#N/A"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="41.22260220712203" y2="47.522602207122034" stroke="#N/A"></line1>
+			<line id="diag" x1="13.5" y1="6.300000000000001" x2="54.72260220712203" y2="47.522602207122034" stroke="#N/A"></line>
+			<line1 id="gor" x1="41.22260220712203" y1="47.522602207122034" x2="54.72260220712203" y2="47.522602207122034" stroke="#N/A"></line1>
+			<line1 id="vert" x1="54.72260220712203" y1="41.22260220712203" x2="54.72260220712203" y2="47.522602207122034" stroke="#N/A"></line1>
+			<g transform="translate(13.5,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="41.22260220712203"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m082.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Сигара 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1225.499999976,179.22)">
+			<circle r="8.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="15.3" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="16.2" x2="57.04136148790474" y2="40.841361487904734" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="15.3" x2="40.841361487904734" y2="56.14136148790473" stroke="yellowgreen"></line1>
+			<line id="diag" x1="16.2" y1="15.3" x2="57.04136148790474" y2="56.14136148790473" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="40.841361487904734" y1="56.14136148790473" x2="57.04136148790474" y2="56.14136148790473" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="57.04136148790474" y1="40.841361487904734" x2="57.04136148790474" y2="56.14136148790473" stroke="yellowgreen"></line1>
+			<g transform="translate(16.2,15.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="40.841361487904734"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="15.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m083.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Південна Вертушка 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1117.525000032,-77.28)">
+			<circle r="11" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="7.2" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="7.2" x2="55.208399364816955" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="7.2" x2="48.00839936481695" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<line id="diag" x1="7.2" y1="7.2" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="55.208399364816955" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="55.208399364816955" y1="48.00839936481695" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<g transform="translate(7.2,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m084.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 84 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1117.599999984,-109.08)">
+			<circle r="10.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="7.2" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="darkorange"></line1>
+			<line1 id="diag" y1="7.2" x2="48.00839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<line id="diag" x1="10.799999999999999" y1="7.2" x2="58.80839936481695" y2="55.208399364816955" stroke="darkorange"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="55.208399364816955" x2="58.80839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="55.208399364816955" stroke="darkorange"></line1>
+			<g transform="translate(10.799999999999999,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m085.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 85 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1119.049999992,-77.69999999999999)">
+			<circle r="11" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="9" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="59.708399364816955" y2="48.00839936481695" stroke="darkred"></line1>
+			<line1 id="diag" y1="9" x2="48.00839936481695" y2="57.00839936481695" stroke="darkred"></line1>
+			<line id="diag" x1="11.700000000000001" y1="9" x2="59.708399364816955" y2="57.00839936481695" stroke="darkred"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="57.00839936481695" x2="59.708399364816955" y2="57.00839936481695" stroke="darkred"></line1>
+			<line1 id="vert" x1="59.708399364816955" y1="48.00839936481695" x2="59.708399364816955" y2="57.00839936481695" stroke="darkred"></line1>
+			<g transform="translate(11.700000000000001,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m086.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 86 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1125.199999944,-74.28)">
+			<circle r="11" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="10.799999999999999" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="10.799999999999999" x2="48.00839936481695" y2="58.80839936481695" stroke="darkviolet"></line1>
+			<line id="diag" x1="10.799999999999999" y1="10.799999999999999" x2="58.80839936481695" y2="58.80839936481695" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="58.80839936481695" x2="58.80839936481695" y2="58.80839936481695" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="58.80839936481695" stroke="darkviolet"></line1>
+			<g transform="translate(10.799999999999999,10.799999999999999)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="10.799999999999999"></rect>
+			<a xlink:href="http://messier.seds.org/m/m087.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 87 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1127.999999952,-86.52)">
+			<circle r="11" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="6.300000000000001" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="48.00839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line id="diag" x1="10.799999999999999" y1="6.300000000000001" x2="58.80839936481695" y2="54.30839936481695" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="54.30839936481695" x2="58.80839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<g transform="translate(10.799999999999999,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m088.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 88 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1132.675000056,-75.30000000000001)">
+			<circle r="11.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="6.300000000000001" height="6.300000000000001" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="6.300000000000001" x2="54.30839936481695" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="48.00839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line id="diag" x1="6.300000000000001" y1="6.300000000000001" x2="54.30839936481695" y2="54.30839936481695" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="54.30839936481695" x2="54.30839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="54.30839936481695" y1="48.00839936481695" x2="54.30839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<g transform="translate(6.300000000000001,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="6.300000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m089.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 89 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1134.2000000159999,-79.02)">
+			<circle r="11" fill="none" stroke="darkgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="15.3" height="7.2" fill="none" stroke="darkgreen"></rect>
+			<line1 id="diag" x1="15.3" x2="63.30839936481695" y2="48.00839936481695" stroke="darkgreen"></line1>
+			<line1 id="diag" y1="7.2" x2="48.00839936481695" y2="55.208399364816955" stroke="darkgreen"></line1>
+			<line id="diag" x1="15.3" y1="7.2" x2="63.30839936481695" y2="55.208399364816955" stroke="darkgreen"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="55.208399364816955" x2="63.30839936481695" y2="55.208399364816955" stroke="darkgreen"></line1>
+			<line1 id="vert" x1="63.30839936481695" y1="48.00839936481695" x2="63.30839936481695" y2="55.208399364816955" stroke="darkgreen"></line1>
+			<g transform="translate(15.3,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkgreen)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkgreen)" y="-10" width="15.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkgreen)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m090.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 90 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1132.600000104,-87)">
+			<circle r="11.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="6.300000000000001" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="7.2" x2="55.208399364816955" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="48.00839936481695" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line id="diag" x1="7.2" y1="6.300000000000001" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="54.30839936481695" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="55.208399364816955" y1="48.00839936481695" x2="55.208399364816955" y2="54.30839936481695" stroke="darkviolet"></line1>
+			<g transform="translate(7.2,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m091.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 91 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1555.52500008,-258.78000000000003)">
+			<circle r="7.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="16.2" height="16.2" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="16.2" x2="33.23238615208592" y2="17.032386152085927" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="16.2" x2="17.032386152085927" y2="33.23238615208592" stroke="darkviolet"></line1>
+			<line id="diag" x1="16.2" y1="16.2" x2="33.23238615208592" y2="33.23238615208592" stroke="darkviolet"></line>
+			<line1 id="gor" x1="17.032386152085927" y1="33.23238615208592" x2="33.23238615208592" y2="33.23238615208592" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="33.23238615208592" y1="17.032386152085927" x2="33.23238615208592" y2="33.23238615208592" stroke="darkviolet"></line1>
+			<g transform="translate(16.2,16.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="17.032386152085927"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="16.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="16.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m092.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 92 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(696.150000072,143.22)">
+			<circle r="6.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="33.3" height="33.3" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="33.3" x2="43.316309587105096" y2="10.016309587105097" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="33.3" x2="10.016309587105097" y2="43.316309587105096" stroke="darkviolet"></line1>
+			<line id="diag" x1="33.3" y1="33.3" x2="43.316309587105096" y2="43.316309587105096" stroke="darkviolet"></line>
+			<line1 id="gor" x1="10.016309587105097" y1="43.316309587105096" x2="43.316309587105096" y2="43.316309587105096" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="43.316309587105096" y1="10.016309587105097" x2="43.316309587105096" y2="43.316309587105096" stroke="darkviolet"></line1>
+			<g transform="translate(33.3,33.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="10.016309587105097"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="33.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="33.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m093.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 93 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1155.225000024,-246.71999999999997)">
+			<circle r="9.5" fill="none" stroke="yellowgreen" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="4.5" fill="none" stroke="yellowgreen"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="53.12761571363466" y2="42.327615713634664" stroke="yellowgreen"></line1>
+			<line1 id="diag" y1="4.5" x2="42.327615713634664" y2="46.827615713634664" stroke="yellowgreen"></line1>
+			<line id="diag" x1="10.799999999999999" y1="4.5" x2="53.12761571363466" y2="46.827615713634664" stroke="yellowgreen"></line>
+			<line1 id="gor" x1="42.327615713634664" y1="46.827615713634664" x2="53.12761571363466" y2="46.827615713634664" stroke="yellowgreen"></line1>
+			<line1 id="vert" x1="53.12761571363466" y1="42.327615713634664" x2="53.12761571363466" y2="46.827615713634664" stroke="yellowgreen"></line1>
+			<g transform="translate(10.799999999999999,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_yellowgreen)" width="10" height="42.327615713634664"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_yellowgreen)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_yellowgreen)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m094.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 94 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(965.999999952,-70.19999999999999)">
+			<circle r="11" fill="none" stroke="darkslateblue" stroke-dasharray="4.28,2"></circle>
+			<rect width="6.300000000000001" height="4.5" fill="none" stroke="darkslateblue"></rect>
+			<line1 id="diag" x1="6.300000000000001" x2="52.48136575483409" y2="46.18136575483409" stroke="darkslateblue"></line1>
+			<line1 id="diag" y1="4.5" x2="46.18136575483409" y2="50.68136575483409" stroke="darkslateblue"></line1>
+			<line id="diag" x1="6.300000000000001" y1="4.5" x2="52.48136575483409" y2="50.68136575483409" stroke="darkslateblue"></line>
+			<line1 id="gor" x1="46.18136575483409" y1="50.68136575483409" x2="52.48136575483409" y2="50.68136575483409" stroke="darkslateblue"></line1>
+			<line1 id="vert" x1="52.48136575483409" y1="46.18136575483409" x2="52.48136575483409" y2="50.68136575483409" stroke="darkslateblue"></line1>
+			<g transform="translate(6.300000000000001,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkslateblue)" width="10" height="46.18136575483409"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkslateblue)" y="-10" width="6.300000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkslateblue)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m095.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 95 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(969.199999992,-70.92)">
+			<circle r="10.5" fill="none" stroke="darkred" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="6.300000000000001" fill="none" stroke="darkred"></rect>
+			<line1 id="diag" x1="9" x2="55.18136575483409" y2="46.18136575483409" stroke="darkred"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="46.18136575483409" y2="52.48136575483409" stroke="darkred"></line1>
+			<line id="diag" x1="9" y1="6.300000000000001" x2="55.18136575483409" y2="52.48136575483409" stroke="darkred"></line>
+			<line1 id="gor" x1="46.18136575483409" y1="52.48136575483409" x2="55.18136575483409" y2="52.48136575483409" stroke="darkred"></line1>
+			<line1 id="vert" x1="55.18136575483409" y1="46.18136575483409" x2="55.18136575483409" y2="52.48136575483409" stroke="darkred"></line1>
+			<g transform="translate(9,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkred)" width="10" height="46.18136575483409"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkred)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkred)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m096.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 96 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1011.199999896,-330.12)">
+			<circle r="12" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="4.5" height="4.5" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="4.5" x2="12.322045780109745" y2="7.822045780109745" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="4.5" x2="7.822045780109745" y2="12.322045780109745" stroke="darkviolet"></line1>
+			<line id="diag" x1="4.5" y1="4.5" x2="12.322045780109745" y2="12.322045780109745" stroke="darkviolet"></line>
+			<line1 id="gor" x1="7.822045780109745" y1="12.322045780109745" x2="12.322045780109745" y2="12.322045780109745" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="12.322045780109745" y1="7.822045780109745" x2="12.322045780109745" y2="12.322045780109745" stroke="darkviolet"></line1>
+			<g transform="translate(4.5,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="7.822045780109745"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="4.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m097.html">
+				<text y="-2" font-size="4" fill="white">
+					Туманність Сова 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1099.700000064,-89.4)">
+			<circle r="11" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="4.5" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="13.5" x2="61.50839936481695" y2="48.00839936481695" stroke="#N/A"></line1>
+			<line1 id="diag" y1="4.5" x2="48.00839936481695" y2="52.50839936481695" stroke="#N/A"></line1>
+			<line id="diag" x1="13.5" y1="4.5" x2="61.50839936481695" y2="52.50839936481695" stroke="#N/A"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="52.50839936481695" x2="61.50839936481695" y2="52.50839936481695" stroke="#N/A"></line1>
+			<line1 id="vert" x1="61.50839936481695" y1="48.00839936481695" x2="61.50839936481695" y2="52.50839936481695" stroke="#N/A"></line1>
+			<g transform="translate(13.5,4.5)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="4.5"></rect>
+			<a xlink:href="http://messier.seds.org/m/m098.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 98 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1107.200000016,-86.52)">
+			<circle r="10.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="7.2" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="7.2" x2="55.208399364816955" y2="48.00839936481695" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="7.2" x2="48.00839936481695" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<line id="diag" x1="7.2" y1="7.2" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="55.208399364816955" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="55.208399364816955" y1="48.00839936481695" x2="55.208399364816955" y2="55.208399364816955" stroke="darkviolet"></line1>
+			<g transform="translate(7.2,7.2)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="7.2"></rect>
+			<a xlink:href="http://messier.seds.org/m/m099.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 99 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1113.224999904,-94.92)">
+			<circle r="10.5" fill="none" stroke="darkorange" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="9" fill="none" stroke="darkorange"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.80839936481695" y2="48.00839936481695" stroke="darkorange"></line1>
+			<line1 id="diag" y1="9" x2="48.00839936481695" y2="57.00839936481695" stroke="darkorange"></line1>
+			<line id="diag" x1="10.799999999999999" y1="9" x2="58.80839936481695" y2="57.00839936481695" stroke="darkorange"></line>
+			<line1 id="gor" x1="48.00839936481695" y1="57.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="darkorange"></line1>
+			<line1 id="vert" x1="58.80839936481695" y1="48.00839936481695" x2="58.80839936481695" y2="57.00839936481695" stroke="darkorange"></line1>
+			<g transform="translate(10.799999999999999,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="48.00839936481695"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m100.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 100 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1264.5499999679998,-326.1)">
+			<circle r="8.5" fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="153" height="153" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="153" x2="197.34323643732034" y2="44.34323643732033" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="153" x2="44.34323643732033" y2="197.34323643732034" stroke="darkviolet"></line1>
+			<line id="diag" x1="153" y1="153" x2="197.34323643732034" y2="197.34323643732034" stroke="darkviolet"></line>
+			<line1 id="gor" x1="44.34323643732033" y1="197.34323643732034" x2="197.34323643732034" y2="197.34323643732034" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="197.34323643732034" y1="44.34323643732033" x2="197.34323643732034" y2="197.34323643732034" stroke="darkviolet"></line1>
+			<g transform="translate(153,153)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="44.34323643732033"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="153" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="153"></rect>
+			<a xlink:href="http://messier.seds.org/m/m101.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Цівочне Колесо 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1359.1249999200002,-334.62)">
+			<circle r="(10.5)-? " fill="none" stroke="darkviolet" stroke-dasharray="4.28,2"></circle>
+			<rect width="7.2" height="2.6999999999999997" fill="none" stroke="darkviolet"></rect>
+			<line1 id="diag" x1="7.2" x2="53.58653893238429" y2="46.38653893238429" stroke="darkviolet"></line1>
+			<line1 id="diag" y1="2.6999999999999997" x2="46.38653893238429" y2="49.08653893238429" stroke="darkviolet"></line1>
+			<line id="diag" x1="7.2" y1="2.6999999999999997" x2="53.58653893238429" y2="49.08653893238429" stroke="darkviolet"></line>
+			<line1 id="gor" x1="46.38653893238429" y1="49.08653893238429" x2="53.58653893238429" y2="49.08653893238429" stroke="darkviolet"></line1>
+			<line1 id="vert" x1="53.58653893238429" y1="46.38653893238429" x2="53.58653893238429" y2="49.08653893238429" stroke="darkviolet"></line1>
+			<g transform="translate(7.2,2.6999999999999997)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_darkviolet)" width="10" height="46.38653893238429"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_darkviolet)" y="-10" width="7.2" height="10"></rect>
+			<rect fill="url(#Pattern_gor_darkviolet)" x="-10" y1="0" width="10" height="2.6999999999999997"></rect>
+			<a xlink:href="http://messier.seds.org/m/m102.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 102 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(139.55000004,-364.20000000000005)">
+			<circle r="7" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="9" height="9" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="9" x2="21.317766166719345" y2="12.317766166719343" stroke="#N/A"></line1>
+			<line1 id="diag" y1="9" x2="12.317766166719343" y2="21.317766166719345" stroke="#N/A"></line1>
+			<line id="diag" x1="9" y1="9" x2="21.317766166719345" y2="21.317766166719345" stroke="#N/A"></line>
+			<line1 id="gor" x1="12.317766166719343" y1="21.317766166719345" x2="21.317766166719345" y2="21.317766166719345" stroke="#N/A"></line1>
+			<line1 id="vert" x1="21.317766166719345" y1="12.317766166719343" x2="21.317766166719345" y2="21.317766166719345" stroke="#N/A"></line1>
+			<g transform="translate(9,9)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="12.317766166719343"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="9" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="9"></rect>
+			<a xlink:href="http://messier.seds.org/m/m103.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 103 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1140.000000048,69.72)">
+			<circle r="9.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="13.5" height="6.300000000000001" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="13.5" x2="60.77911313764113" y2="47.27911313764113" stroke="#N/A"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="47.27911313764113" y2="53.57911313764113" stroke="#N/A"></line1>
+			<line id="diag" x1="13.5" y1="6.300000000000001" x2="60.77911313764113" y2="53.57911313764113" stroke="#N/A"></line>
+			<line1 id="gor" x1="47.27911313764113" y1="53.57911313764113" x2="60.77911313764113" y2="53.57911313764113" stroke="#N/A"></line1>
+			<line1 id="vert" x1="60.77911313764113" y1="47.27911313764113" x2="60.77911313764113" y2="53.57911313764113" stroke="#N/A"></line1>
+			<g transform="translate(13.5,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="47.27911313764113"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="13.5" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m104.html">
+				<text y="-2" font-size="4" fill="white">
+					Галактика Сомбреро 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(970.699999896,-75.48)">
+			<circle r="11" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="2.6999999999999997" height="2.6999999999999997" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="2.6999999999999997" x2="48.88136575483409" y2="46.18136575483409" stroke="#N/A"></line1>
+			<line1 id="diag" y1="2.6999999999999997" x2="46.18136575483409" y2="48.88136575483409" stroke="#N/A"></line1>
+			<line id="diag" x1="2.6999999999999997" y1="2.6999999999999997" x2="48.88136575483409" y2="48.88136575483409" stroke="#N/A"></line>
+			<line1 id="gor" x1="46.18136575483409" y1="48.88136575483409" x2="48.88136575483409" y2="48.88136575483409" stroke="#N/A"></line1>
+			<line1 id="vert" x1="48.88136575483409" y1="46.18136575483409" x2="48.88136575483409" y2="48.88136575483409" stroke="#N/A"></line1>
+			<g transform="translate(2.6999999999999997,2.6999999999999997)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="46.18136575483409"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="2.6999999999999997" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="2.6999999999999997"></rect>
+			<a xlink:href="http://messier.seds.org/m/m105.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 105 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1108.4999999039999,-283.79999999999995)">
+			<circle r="9.5" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="28.8" height="11.700000000000001" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="28.8" x2="73.30652441540136" y2="44.50652441540135" stroke="#N/A"></line1>
+			<line1 id="diag" y1="11.700000000000001" x2="44.50652441540135" y2="56.206524415401354" stroke="#N/A"></line1>
+			<line id="diag" x1="28.8" y1="11.700000000000001" x2="73.30652441540136" y2="56.206524415401354" stroke="#N/A"></line>
+			<line1 id="gor" x1="44.50652441540135" y1="56.206524415401354" x2="73.30652441540136" y2="56.206524415401354" stroke="#N/A"></line1>
+			<line1 id="vert" x1="73.30652441540136" y1="44.50652441540135" x2="73.30652441540136" y2="56.206524415401354" stroke="#N/A"></line1>
+			<g transform="translate(28.8,11.700000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="44.50652441540135"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="28.8" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="11.700000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m106.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 106 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1488.1250000880002,78.30000000000001)">
+			<circle r="10" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="15.3" height="15.3" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="15.3" x2="31.282929094215966" y2="15.982929094215963" stroke="#N/A"></line1>
+			<line1 id="diag" y1="15.3" x2="15.982929094215963" y2="31.282929094215966" stroke="#N/A"></line1>
+			<line id="diag" x1="15.3" y1="15.3" x2="31.282929094215966" y2="31.282929094215966" stroke="#N/A"></line>
+			<line1 id="gor" x1="15.982929094215963" y1="31.282929094215966" x2="31.282929094215966" y2="31.282929094215966" stroke="#N/A"></line1>
+			<line1 id="vert" x1="31.282929094215966" y1="15.982929094215963" x2="31.282929094215966" y2="31.282929094215966" stroke="#N/A"></line1>
+			<g transform="translate(15.3,15.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="15.982929094215963"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="15.3" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="15.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m107.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 107 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1006.6250000160001,-334.02)">
+			<circle r="11" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="11.700000000000001" height="1.8" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="11.700000000000001" x2="58.55767107500983" y2="46.857671075009826" stroke="#N/A"></line1>
+			<line1 id="diag" y1="1.8" x2="46.857671075009826" y2="48.65767107500982" stroke="#N/A"></line1>
+			<line id="diag" x1="11.700000000000001" y1="1.8" x2="58.55767107500983" y2="48.65767107500982" stroke="#N/A"></line>
+			<line1 id="gor" x1="46.857671075009826" y1="48.65767107500982" x2="58.55767107500983" y2="48.65767107500982" stroke="#N/A"></line1>
+			<line1 id="vert" x1="58.55767107500983" y1="46.857671075009826" x2="58.55767107500983" y2="48.65767107500982" stroke="#N/A"></line1>
+			<g transform="translate(11.700000000000001,1.8)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="46.857671075009826"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="11.700000000000001" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="1.8"></rect>
+			<a xlink:href="http://messier.seds.org/m/m108.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 108 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(1075.6499999760001,-320.28000000000003)">
+			<circle r="11" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="10.799999999999999" height="6.300000000000001" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="10.799999999999999" x2="58.460353856858426" y2="47.66035385685843" stroke="#N/A"></line1>
+			<line1 id="diag" y1="6.300000000000001" x2="47.66035385685843" y2="53.96035385685843" stroke="#N/A"></line1>
+			<line id="diag" x1="10.799999999999999" y1="6.300000000000001" x2="58.460353856858426" y2="53.96035385685843" stroke="#N/A"></line>
+			<line1 id="gor" x1="47.66035385685843" y1="53.96035385685843" x2="58.460353856858426" y2="53.96035385685843" stroke="#N/A"></line1>
+			<line1 id="vert" x1="58.460353856858426" y1="47.66035385685843" x2="58.460353856858426" y2="53.96035385685843" stroke="#N/A"></line1>
+			<g transform="translate(10.799999999999999,6.300000000000001)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="47.66035385685843"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="10.799999999999999" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="6.300000000000001"></rect>
+			<a xlink:href="http://messier.seds.org/m/m109.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 109 
+				</text>
+			</a>
+		</g>
+		<g id="objs" transform="translate(60.100000056,-250.07999999999998)">
+			<circle r="10" fill="none" stroke="#N/A" stroke-dasharray="4.28,2"></circle>
+			<rect width="25.200000000000003" height="15.3" fill="none" stroke="#N/A"></rect>
+			<line1 id="diag" x1="25.200000000000003" x2="59.98485055738563" y2="34.784850557385624" stroke="#N/A"></line1>
+			<line1 id="diag" y1="15.3" x2="34.784850557385624" y2="50.08485055738562" stroke="#N/A"></line1>
+			<line id="diag" x1="25.200000000000003" y1="15.3" x2="59.98485055738563" y2="50.08485055738562" stroke="#N/A"></line>
+			<line1 id="gor" x1="34.784850557385624" y1="50.08485055738562" x2="59.98485055738563" y2="50.08485055738562" stroke="#N/A"></line1>
+			<line1 id="vert" x1="59.98485055738563" y1="34.784850557385624" x2="59.98485055738563" y2="50.08485055738562" stroke="#N/A"></line1>
+			<g transform="translate(25.200000000000003,15.3)">
+				<rect transform="skewX(45)" fill="url(#Pattern_gor_#N/A)" width="10" height="34.784850557385624"></rect>
+			</g>
+			<rect fill="url(#Pattern_vert_#N/A)" y="-10" width="25.200000000000003" height="10"></rect>
+			<rect fill="url(#Pattern_gor_#N/A)" x="-10" y1="0" width="10" height="15.3"></rect>
+			<a xlink:href="http://messier.seds.org/m/m110.html">
+				<text y="-2" font-size="4" fill="white">
+					Мессьє 110 
+				</text>
+			</a>
+		</g>
+	</g>
+	<g id="legend" transform="translate(200,1350)">
+		<circle r="40" fill="none" stroke="orange" stroke-dasharray="4.28,2"></circle>
+		<text y="-40">
+			<tspan x="-120" dy="15">
+				Apparent magnitude
+			</tspan>
+			<tspan x="-140" dy="15" font-size="10">
+				(radius and amount of dashes)
+			</tspan>
+		</text>
+		<line x1="-5" x2="-15" y2="-20" stroke="orange"></line>
+		<line x1="-15" y1="-20" x2="-5" y2="-40" stroke="orange"></line>
+		<rect width="80" height="80" fill="none" stroke="orange"></rect>
+		<line id="diag" x1="80" x2="160" y2="80" stroke="orange"></line>
+		<line id="diag" x1="80" y1="80" x2="160" y2="160" stroke="orange"></line>
+		<line id="diag" y1="80" x2="80" y2="160" stroke="orange"></line>
+		<line id="gor" x1="160" y1="80" x2="160" y2="160" stroke="orange"></line>
+		<line id="vert" x1="160" y1="160" x2="80" y2="160" stroke="orange"></line>
+		<g transform="translate(80,0)">
+			<rect transform="skewX(45)" fill="url(#Pattern_gor_darkorange)" width="10" height="80"></rect>
+		</g>
+		<rect fill="url(#Pattern_vert_darkorange)" y="-10" width="80" height="10"></rect>
+		<rect fill="url(#Pattern_gor_darkorange)" x="-10" y1="0" width="10" height="80"></rect>
+		<text y="-20">
+			Angular size horizontal * 15 (1 sign = 10 min)
+		</text>
+		<text y="25" transform="rotate(90)">
+			Angular size vertical * 15 (1 sign = 10 min)
+		</text>
+		<text x="80" y="-75" transform="rotate(45)">
+			Distance (kly)
+		</text>
+		<text transform="rotate(45)">
+			Distance (kly)
+		</text>
+	</g>
+</svg>
+<!--sinlin v0.3.0-->

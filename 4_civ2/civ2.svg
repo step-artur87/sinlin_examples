@@ -1,0 +1,73 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	version="1.1" 
+	width="1280"
+	height="800">
+	<defs>
+		<g id="chart" style="font-size:25">	
+			<g transform="translate(550, 550)" id="chart_left">
+				<circle cx="0" cy="0" r="5"/>			
+				<line x1="$-[0;10;510]" y1="0" x2="$-[0;10;510]" y2="-500" stroke="black"/>
+				<circle cx="$-[0;50;550]" cy="0" r="2"/>
+				<circle cx="$-[50;50;550]+10" cy="-460" r="2"/>
+				<line x1="0" y1="$-[0;20;510]" x2="-500" y2="$-[0;20;510]" stroke="black"/>
+				<circle cx="0" cy="$-[0;100;600]" r="2"/>			
+				<line x1="0" y1="0" x2="$[x] * (-50)" y2="$[y] * (-50)" stroke="$color"/>
+				<text x="-350" y="50">current city level</text>
+				<text x="-250" y="-420">target city level</text>
+				<text x="-55" y="-550" transform="rotate(-45)">free food</text>
+				<text x="-350" y="-35" transform="rotate(90)">need turns for next level</text>
+				<text x="$-[0;50;550]" y="15" font-size="14">$0;5;55</text>
+				<text x="$-[50;50;550]+10" y="-462" font-size="14">$5;5;55</text>
+				<text x="10" y="$-[0;20;510]" font-size="14">$0;1;26</text>
+				<text x="$[x] * (-50)" y="$[y] * (-50)" font-size="14">$1;1;21</text>
+			</g>		
+			<g transform="translate(750, 550)" id="chart_right">		
+				<circle cx="0" cy="0" r="5"/>
+				<line x1="-100" y1="0" x2="-100" y2="-500" stroke="black"/>			
+				<circle cx="-100" cy="$-[0;100;600]" r="2"/>			
+				<line x1="$0;10;510" y1="0" x2="$0;10;510" y2="-500" stroke="black"/>
+				<circle cx="$0;50;550" cy="0" r="2"/>			
+				<line x1="0" y1="$-[0;20;510]" x2="500" y2="$-[0;20;510]" stroke="black"/>
+				<circle cx="0" cy="$-[0;100;600]" r="2"/>			
+				<line x1="0" y1="0" x2="$[x] * 50" y2="$[y] * (-50)" stroke="$color"/>
+				<line x1="0" y1="0" x2="-200" y2="0" stroke="black"/>
+				<line x1="0" y1="-500" x2="-200" y2="-500" stroke="black"/>
+				<text x="-100" y="$-[0;20;510]" font-size="14">$0;1;26</text>
+				<text x="-250" y="65" transform="rotate(90)">average</text>
+				<text x="$0;50;550" y="15" font-size="14">$0;25;275</text>
+				<text x="-20" y="$-[0;20;510]" font-size="14">$0;1;26</text>
+				<text x="$[x] * 50" y="$[y] * (-50)" font-size="14">$1;1;21</text>
+				<text x="-140" y="-500" transform="rotate(45)">target level - current level</text>
+				<text x="100" y="50">need turns from current to target</text>		
+			</g>
+		</g>
+		<radialGradient id="gradient" cx="0" cy="0" r="100">
+			<stop offset="0" style="stop-color:blue"/>
+			<stop offset="1" style="stop-color:red"/>
+		</radialGradient>	
+	</defs>
+	<rect x="0" y="0" width="1280" height="800" fill="grey"/>
+	<text x="440" y="30" font-size="30">Sid Meier's Civilization: City Grown</text>
+	<use xlink:href="#chart" y="30"/>
+	<g transform="translate(488, 630)">
+		<g transform="scale(0.25)">
+			<use xlink:href="#chart"/>
+			<g transform="translate(550, 550)">
+				<line x1="-100" y1="0" x2="-100" y2="-200" stroke="red" stroke-width="4"/>
+				<line x1="-100" y1="-200" x2="0" y2="-200" stroke="darkorange" stroke-width="4"/>
+				<line x1="-160" y1="-500" x2="-160" y2="-320" stroke="red" stroke-width="4"/>
+				<line x1="-160" y1="-320" x2="200" y2="-320" stroke="darkorange" stroke-width="4"/>
+				<line x1="200" y1="-320" x2="0" y2="-200" stroke="green" stroke-width="4"/>
+				<line x1="100" y1="-260" x2="330" y2="-260" stroke="blue" stroke-width="4"/>
+				<line x1="330" y1="-260" x2="330" y2="0" stroke="darkviolet" stroke-width="4"/>
+			</g>
+		</g>
+		<g transform="translate(-100, 50)" id="color-legend">
+		<text y="$0;20;100" font-size="14">$1;1;6</text>
+		<line y1="$0;20;100" y2="$0;20;100" x1="10" x2="50" stroke="$red, darkorange, green, blue, darkviolet"/>
+	</g>	
+
+	</g>
+</svg>

@@ -1,0 +1,238 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	version="1.1" 
+	width="1280"
+	height="500">
+	<defs>
+		<g id="arrow" fill="burlywood">
+			<rect x="0" y="0" height="5" width="15"/>
+			<polygon points="15, 10 15, -5 20, 2.5"/>		
+		</g>	
+	</defs>
+	<rect 	
+		x="0" y="0" width="1280" height="500" fill="grey"/>
+	<text x="400" y="50" font-size="30">Sid Meier's Civilization: Ground</text>
+	<g id="ground" transform="translate(50, 100)">
+		<line 
+			x1="0" y1="$100;-20;-10" x2="1000" y2="$100;-20;-10" stroke="black"/>
+		<text 
+			x="0" y="$100;-20;-10">$0;1;6</text>		
+		<line 
+			x1="0" y1="$300;-20;190" x2="1000" y2="$300;-20;190" stroke="black"/>
+		<text 
+			x="0" y="$300;-20;190">$0;1;6</text>		
+		<circle 
+			cx="$[number] * 100" 
+			cy="$100 + 200 * [row]" 
+			r="$defence"
+			fill="brown"/>
+		<circle 
+			cx="$[number] * 100" 
+			cy="$100 + 200 * [row]" r="5"/>
+		<image 
+		x="$[number] * 100" 
+		y="$100 + 200 * [row]" 
+		width="64" 
+		height="64" 
+		xlink:href="images/$image"/>
+		<line 
+			x1="$[number] * 100" 
+			y1="$100 + 200 * [row]" 
+			x2="$[number] * 100 - 20 * [food]" 
+			y2="$100 + 200 * [row] - 20 * [food]" 
+			stroke="black"/>
+		<line 
+			x1="$[number] * 100 - 20 * [food]" 
+			y1="$100 + 200 * [row] - 20 * [food]"
+			x2="$[number] * 100 - 20 * [food_adv]" 
+			y2="$100 + 200 * [row] - 20 * [food_adv]" 
+			stroke="brown"
+			exist0="$food_delta"/>
+		<line 
+			x1="$[number] * 100" 
+			y1="$100 + 200 * [row]" 
+			x2="$[number] * 100" 
+			y2="$100 + 200 * [row] - 20 * [product]" 
+			stroke="black"/>
+		<line 
+			x1="$[number] * 100" 
+			y1="$100 + 200 * [row] - 20 * [product]" 
+			x2="$[number] * 100" 
+			y2="$100 + 200 * [row] - 20 * [product_adv]" 
+			stroke="brown"
+			exist0="$product_delta"/>
+		<line 
+			x1="$[number] * 100" 
+			y1="$100 + 200 * [row]" 
+			x2="$[number] * 100 + 20 * [trade]" 
+			y2="$100 + 200 * [row] - 20 * [trade]" 
+			stroke="black"/>
+		<line 
+			x1="$[number] * 100 + 20 * [trade]" 
+			y1="$100 + 200 * [row] - 20 * [trade]" 
+			x2="$[number] * 100 + 20 * [trade_adv]" 
+			y2="$100 + 200 * [row] - 20 * [trade_adv]" 
+			stroke="brown"
+			exist0="$trade_delta"/>
+		<g exist0="$food_state_plus"
+		transform="translate($[number] * 100 - 20 * [food]$,$100 + 200 * [row] - 20 * [food]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$food_state_minus"
+		transform="translate($[number] * 100 - 20 * [food]$,$100 + 200 * [row] - 20 * [food]$)">
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<g exist0="$product_state_plus"
+		transform="translate($[number] * 100$,$100 + 200 * [row] - 20 * [product]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$product_state_minus"
+		transform="translate($[number] * 100$,$100 + 200 * [row] - 20 * [product]$)">		
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<g exist0="$trade_state_plus"
+		transform="translate($[number] * 100 + 20 * [trade]$,$100 + 200 * [row] - 20 * [trade]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$trade_state_minus"
+		transform="translate($[number] * 100 + 20 * [trade]$,$100 + 200 * [row] - 20 * [trade]$)">		
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<g exist0="$food_adv_state_plus"
+		transform="translate($[number] * 100 - 20 * [food_adv]$,$100 + 200 * [row] - 20 * [food_adv]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$food_adv_state_minus"
+		transform="translate($[number] * 100 - 20 * [food_adv]$,$100 + 200 * [row] - 20 * [food_adv]$)">		
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<g exist0="$product_adv_state_plus"
+		transform="translate($[number] * 100$,$100 + 200 * [row] - 20 * [product_adv]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$product_adv_state_minus"
+		transform="translate($[number] * 100$,$100 + 200 * [row] - 20 * [product_adv]$)">		
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<g exist0="$trade_adv_state_plus"
+		transform="translate($[number] * 100 + 20 * [trade_adv]$,$100 + 200 * [row] - 20 * [trade_adv]$)">		
+				<line x1="-10" y1="0" x2="0" y2="-20" stroke="blue"/>
+				<line x1="10" y1="0" x2="0" y2="-20" stroke="blue"/>
+		</g>
+		<g exist0="$trade_adv_state_minus"
+		transform="translate($[number] * 100 + 20 * [trade_adv]$,$100 + 200 * [row] - 20 * [trade_adv]$)">		
+			<line x1="-10" y1="0" x2="0" y2="20" stroke="red"/>
+			<line x1="10" y1="0" x2="0" y2="20" stroke="red"/>
+		</g>
+		<use exist0="$step_one" x="$[number] * 100" y="$100 + 200 * [row]" xlink:href="#arrow"/>
+		<use exist0="$step_two" x="$[number] * 100 + 20" y="$100 + 200 * [row]" xlink:href="#arrow"/>
+		<use exist0="$step_three" x="$[number] * 100 + 40" y="$100 + 200 * [row]" xlink:href="#arrow"/>	
+	</g>
+	<g id="ground_legend" transform="translate(1150, 195)">		
+		<circle 
+			cx="0" 
+			cy="0" r="5"/>
+		<text 
+			x="-20" 
+			y="15"
+			font-size="16">ground</text>
+		<line 
+			x1="0" 
+			y1="0" 
+			x2="-40" 
+			y2="-40" 
+			stroke="black"/>
+		<text
+			x="-80" 
+			y="-30"
+			font-size="16">food</text>
+		<line 
+			x1="-40" 
+			y1="-40"
+			x2="-80" 
+			y2="-80" 
+			stroke="brown"/>
+		<text 
+			x="-115" 
+			y="-80"
+			font-size="16">with irrigation</text>
+		<line 
+			x1="0" 
+			y1="0" 
+			x2="0" 
+			y2="-40" 
+			stroke="black"/>
+		<text 
+			x="-30" 
+			y="-40"
+			font-size="16">product</text>
+		<line 
+			x1="0" 
+			y1="-40" 
+			x2="0" 
+			y2="-80" 
+			stroke="brown"/>
+		<text 
+			x="-35" 
+			y="-95"
+			font-size="16">with mine</text>
+		<line 
+			x1="0" 
+			y1="0" 
+			x2="40" 
+			y2="-40" 
+			stroke="black"/>
+		<text 
+			x="50" 
+			y="-30"
+			font-size="16">trade</text>
+		<line 
+			x1="40" 
+			y1="-40" 
+			x2="80" 
+			y2="-80" 
+			stroke="brown"/>
+		<text
+			x="45" 
+			y="-80"
+			font-size="16">with road</text>
+		<line
+			x1="-10" y1="100" x2="0" y2="80" stroke="blue"/>
+		<line
+			x1="10" y1="100" x2="0" y2="80" stroke="blue"/>
+		<line
+			x1="-10" y1="100" x2="0" y2="120" stroke="red"/>
+		<line
+			x1="10" y1="100" x2="0" y2="120" stroke="red"/>
+		<text 
+			x="-50" 
+			y="75"
+			font-size="16">republic and democracy</text>
+		<text 
+			x="-50" 
+			y="130"
+			font-size="16">despotism and anarchy</text>
+		<use x="0" y="150" xlink:href="#arrow"/>
+				<text 
+			x="-50" 
+			y="170"
+			font-size="16">step per round</text>
+		<circle cx="-20" cy="200"  r="5"/>			
+		<circle cx="10" cy="200"  r="7.5" fill="brown"/>
+		<circle cx="10" cy="200"  r="5"/>
+		<circle cx="40" cy="200"  r="15" fill="brown"/>
+		<circle cx="40" cy="200"  r="5"/>
+		<text x="-50" y="220" font-size="16">add defence (0, +50, +200)</text>
+	</g>
+</svg>

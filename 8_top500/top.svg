@@ -1,0 +1,184 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	version="1.1" 
+	width="$1280 * 2"
+	height="$800 * 2">
+	<defs>
+		<linearGradient id="grad_x" gradientUnits="userSpaceOnUse" x2="600">
+			<stop offset="0" style="stop-color:black"/>
+			<stop offset="1" style="stop-color:red"/>
+		</linearGradient>	
+		<linearGradient id="grad_y" gradientUnits="userSpaceOnUse" y2="-600">
+			<stop offset="0" style="stop-color:black"/>
+			<stop offset="1" style="stop-color:green"/>
+		</linearGradient>			
+		<linearGradient id="grad_y1" gradientUnits="userSpaceOnUse" x2="600">
+			<stop offset="0" style="stop-color:black"/>
+			<stop offset="1" style="stop-color:green"/>
+		</linearGradient>			
+		<linearGradient id="grad_z" gradientUnits="userSpaceOnUse" y2="-600">
+			<stop offset="0" style="stop-color:black"/>
+			<stop offset="1" style="stop-color:blue"/>
+		</linearGradient>			
+		<linearGradient id="grad_z1" gradientUnits="userSpaceOnUse" x2="600">
+			<stop offset="0" style="stop-color:black"/>
+			<stop offset="1" style="stop-color:blue"/>
+		</linearGradient>			
+		<symbol id="grid">
+			<line x2="600" y2="$-150;-150;;4" stroke="blue"/>
+			<line x2="$150;150;;4" y2="-600" stroke="blue"/>
+			<line x1="$0;10;600" x2="$0;10;600" y2="-600" stroke="rgb(63, 63, 63)"/>
+			<line x2="600" y1="$0;-10;-600" y2="$0;-10;-600" stroke="rgb(63, 63, 63)"/>
+			<line x1="$0;100;600" x2="$0;100;600" y2="-600" stroke="black"/>
+			<line x2="600" y1="$0;-100;-600" y2="$0;-100;-600" stroke="black"/>
+		</symbol>
+		<symbol id="nom_signs">
+			<text x="600" y="$-150;-150;;4">					
+						$0.25;0.25;;4</text>
+			<text x="$150;150;;4" y="-600">					
+						$4, 2, 1.33, 1</text>
+		</symbol>
+		<symbol id="xy">
+			<g style="stroke-width:4;stroke:rgb($[power] * 255 / 50000$, 
+				$[rmax] * 255 / 60000$, 
+				$[cores] * 255 / 6000000$)" onenode="">			
+				<g transform="translate(
+					$([power] / 100) $,
+					$-([rmax] / 100) $)" onenode="">
+					<circle r="$([cores] / 10000)  / 10" fill="none" />
+				</g>
+			</g>
+			<line x2="600" stroke-width="4" style="stroke:url(#grad_x)" />
+			<line y2="-600" stroke-width="4" style="stroke:url(#grad_y)" />
+		</symbol>
+		<symbol id="xz">
+			<g style="stroke-width:4;stroke:rgb($[power] * 255 / 50000$, 
+			$[rmax] * 255 / 50000$, 
+			$[cores] * 255 / 5000000$)" onenode="">			
+				<g transform="translate(
+					$([power] / 100)$,
+					$(-[cores] / 10000)$)" onenode="">
+					<circle r = "$([rmax] / 100)  / 10"	fill="none" />
+				</g>
+			</g>
+			<line x2="600" stroke-width="4" style="stroke:url(#grad_x)" />
+			<line y2="-600" stroke-width="4" style="stroke:url(#grad_z)" />
+		</symbol>
+		<symbol id="yz">
+			<g style="stroke-width:4;stroke:rgb($[power] * 255 / 50000$, 
+				$[rmax] * 255 / 50000$, 
+				$[cores] * 255 / 5000000$)" onenode="">			
+				<g transform="translate(
+					$([cores] / 10000) $,
+					$-([rmax] / 100)$)" onenode="">
+					<circle r ="$([power] / 100)  / 10"	fill="none" />
+				</g>
+			</g>
+			<line x2="600" stroke-width="4" style="stroke:url(#grad_z1)" />
+			<line y2="-600" stroke-width="4" style="stroke:url(#grad_y)" />
+		</symbol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<symbol id="legend" font-size="21">
+			<g transform="translate(0, $0, 100, 200$)" style="stroke:url(#grad_$x, y1, z1$)" onenode="">				
+				<line x2="600" stroke-width="4"/>
+				<text x="650" stroke="none">$Power (kW), Rmax (TFlop s), Cores</text>
+			</g>
+			<text x="$0;100;600">$0;100;600</text>
+			<text x="$0;100;600" y="100">$0;100;600</text>
+			<text x="$0;100;600" y="200">$0;1000;6000</text>
+			<g transform="translate(0, 400)">			
+				<g transform="scale(0.25, 0.25)">
+					<use xlink:href="#grid"/>
+					<use xlink:href="#nom_signs" style="font-size:56" />
+				</g>
+			</g>
+		</symbol>
+	</defs>
+	<rect width="$1280 * 2" height="$800 * 2" fill="grey"/>
+	<text x="50" y="50" font-size="56">TOP500 project list (November 2015)</text>
+	<use x="100" y="100" xlink:href="#legend"/>
+	<g transform="translate(1280, 650)">
+		<line y2="-600" stroke-width="4" style="stroke:url(#grad_y)" />
+		<line x2="-300" y2="300" stroke-width="4" style="stroke:url(#grad_z)" />
+			
+		<g>
+			<use xlink:href="#grid"/>
+			<use xlink:href="#xy"/>
+			<use xlink:href="#grid" x="600"/>
+			<use xlink:href="#xy"  x="600"/>
+		</g>
+		<g transform="skewX(-45)">
+			<g transform="scale(1, -0.5)">
+				<use xlink:href="#grid"/>
+				<use xlink:href="#xz"/>
+			</g>>
+		</g>
+		<use xlink:href="#grid" x="-300" y="900"/>
+		<use xlink:href="#xz" x="-300" y="900"/>
+			<g transform="skewY(-45)">
+				<g transform="scale(-0.5, 1)">
+					<use xlink:href="#grid"/>
+					<use xlink:href="#yz"/>
+				</g>
+		</g>
+			<use xlink:href="#grid" x="-900" y="300"/>
+			<use xlink:href="#yz" x="-900" y="300"/>
+		<g transform="translate(
+		$([power] / 100)  - ([cores] / 10000 /2) $,
+		$-([rmax] / 100)  + ([cores] / 10000 / 2) $)"
+		style="stroke-width:4;stroke:rgb($[power] * 255 / 50000$, 
+		$[rmax] * 255 / 50000$, 
+		$[cores] * 255 / 5000000$)" onenode="">
+			<circle r="5"/>
+			<line x2="$([rmax] / 100)  / 10" 
+				y2="$([rmax] / 100) "
+				/>
+			<line x2="$-([rmax] / 100)  / 10" 
+				y2="$([rmax] / 100) " 
+				/>
+			<line x2="$-([power] / 100) " 
+				y2="$([power] / 100)  / 10"
+				/>
+			<line x2="$-([power] / 100) " 
+				y2="$-([power] / 100)  / 10" 
+				/>
+			<line x2="$([cores] / 10000)  * (1 - sqrt(2) / 10) / 2" 
+				y2="$-([cores] / 10000)  * (1 + sqrt(2) / 10) / 2"
+				/>
+			<line x2="$([cores] / 10000)  * (1 + sqrt(2) / 10) / 2" 
+				y2="$-([cores] / 10000)  * (1 - sqrt(2) / 10) / 2"
+				/>
+			<line	y2="$([rmax] / 100) "
+				/>
+			<line x2="$-([power] / 100) " 				
+				/>
+			<line x2="$([cores] / 10000) / 2" 
+				y2="$-([cores] / 10000)  / 2"
+				/>
+			<text fill="black" stroke="none" font-size="21">$rank</text>
+		</g>
+	</g>
+</svg>
