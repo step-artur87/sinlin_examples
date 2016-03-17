@@ -1,0 +1,26 @@
+All used pictures taken from https://wiki.factorio.com/
+#	Picture					User
+1	Assembling-machine-1.png		Ssilk
+2	Assembling-machine-2.png		Ssilk
+3	Assembling-machine-3.png		Ssilk
+4	Basic-inserter.png			Preizhour
+5	Basic-splitter.png			Ssilk
+6	Basic-transport-belt.png		Ssilk
+7	Basic-transport-belt-to-ground.png	Ssilk
+8	Burner-inserter.png			Preizhour
+9	Burner-mining-drill.png			Ssilk
+10	Electric-furnace.png			Grey
+11	Electric-mining-drill.png		Monchoman45
+12	Express-splitter.png			Ssilk
+13	Express-transport-belt.png		Ssilk
+14	Express-transport-belt-to-ground.png	Ssilk
+15	Fast-inserter.png			Preizhour
+16	Fast-splitter.png			Ssilk
+17	Fast-transport-belt.png			Ssilk
+18	Fast-transport-belt-to-ground.pn	Ssilk
+19	Long-handed-inserter.png		Preizhour
+20	Smart-inserter.png			Preizhour
+21	Steel-furnace.png			Grey
+22	Stone-furnace.png			WiduX
+
+This images comes directly from the Factorio game files, and is subject to all copyright policies associated with the game.

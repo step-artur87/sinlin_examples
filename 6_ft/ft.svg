@@ -44,7 +44,7 @@ stroke="darkkhaki"/>
 x="10" 
 y="$48, 98, 148, 189, 248"
 font-size="10"
-fill="lightslateblue">$5/s, 42/s, 3/s, 2/s, 1/s
+fill="lightslateblue">$5/s, 4/s, 3/s, 2/s, 1/s
 	</text>  
 	<rect 
 x="0" 
@@ -122,13 +122,6 @@ x2="$[num]*32+2"
 y2="$300-[speed]*50+2-[energ]/4" 
 fill="none"
 stroke="$encolor"
-/>  
-<rect 
-x="$[num]*32" 
-y="$300-[speed]*50" 
-width="4"
-height="4"
-fill="black"
 />  
 	<image 
 x="$[num]*32" 
