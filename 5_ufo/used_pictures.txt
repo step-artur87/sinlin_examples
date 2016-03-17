@@ -1,0 +1,21 @@
+All used pictures taken from http://www.ufopaedia.org/
+#	Picture			User
+1	Base-lift.gif		Bomb Bloke
+2	Base-quarters.gif	Bomb Bloke
+3	Base-lab.gif		Bomb Bloke
+4	Base-workshop.gif	Bomb Bloke
+5	Base-stores.gif		Bomb Bloke
+6	Base-containment.gif	Bomb Bloke
+7	Base-hangar1.gif	Bomb Bloke
+8	Base-small_radar.gif	Bomb Bloke
+9	Base-large_radar.gif	Bomb Bloke
+10	Base-missile.gif	Bomb Bloke
+11	Base-psi.gif		Bomb Bloke
+12	Base-hyperwave.gif	Bomb Bloke
+13	Base-laser.gif		Bomb Bloke
+14	Base-plasma.gif		Bomb Bloke
+15	Base-fusion.gif		Bomb Bloke
+16	Base-mind.gif		Bomb Bloke
+17	Base-grav.gif		Bomb Bloke
+
+
